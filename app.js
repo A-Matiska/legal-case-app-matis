@@ -34,11 +34,11 @@ const events = [
     id: "ev-2021-dpp",
     date: "2021-2024",
     year: "2021",
-    title: "DPP na fiktivních pracovních pozicích",
-    text: "Bonusy měly být vypláceny přes DPP TRAIVA s.r.o. a DPP Traiva Safety s.r.o. s tvrzenou úsporou odvodů.",
+    title: "Mzda rozdělená mezi 1× HPP a 2× DPP",
+    text: "Mzda byla ve firmě standardně rozdělena mezi hlavní pracovní poměr a dvě dohody o provedení práce (DPP TRAIVA s.r.o. a DPP Traiva Safety s.r.o.). Takhle to měli nastavené všichni zaměstnanci, věděli o tom a akceptovali to.",
     people: ["Andrea Matis", "Karel Ospalík"],
     evidence: ["DPP smlouvy", "Výplatní pásky HPP + DPP"],
-    legal: "Na pozicích z dohod jsem fakticky nepracovala — nevím, co to znamená, chci se na to zeptat.",
+    legal: "Uvádím pro úplnost, aby bylo jasné, jak byla moje celková odměna složena — část příjmu šla přes DPP, což je důležité pro pochopení výplatních pásek.",
     tags: ["DPP", "mzda", "pracovněprávní"],
   },
   {
@@ -303,7 +303,7 @@ const evidence = [
   { id: "e-odoo-prislib", title: "Projektový plán Odoo 23. 6. 2025 — příslib prémie", type: "Projektový plán (dokument)", date: "23. 6. 2025", strength: 5, proves: ["písemný příslib prémie 200 000 Kč (sekce 9)", "termín dokončení oprav 30. 9. 2025", "při částečném splnění poměrné krácení"], risk: "Dokument zajištěn na Drive. Termín 30. 9. 2025 byl nereálný: kvůli nezdokumentované práci původního dodavatele nikdo opravy nechtěl převzít (kapacity až od září, doporučení stavět znovu) — Origamis jsem po 3 měsících jednání získala do 09/2025 jen jako poradce. Prémie nevyplacena.", tags: ["Odoo", "mzda"], people: ["Andrea Matis", "Karel Ospalík"], file: "https://drive.google.com/file/d/1FrVQQwA-fRW6GJwdnDmo0kXz7wYg4tvI/view" },
   { id: "e-rekonciliace", title: "Finanční rekonciliace 30. 4. 2026", type: "Finanční podklad", date: "30. 4. 2026", strength: 4, proves: ["optimalizace 25-27 mil. Kč", "podklad pro výpočet 5 % podílu"], risk: "Považuji za přísně důvěrné; viděl jen pan Neffe a advokát.", file: "https://drive.google.com/file/d/1PRXtPPldc0yY25mBHotKh7fITXUa45Ax/view", tags: ["obchodní"], people: ["Andrea Matis", "Karel Neffe"] },
   { id: "e-paska", title: "Výplatní pásky HPP + DPP 04/2025", type: "Mzdový dokument", date: "duben 2025", strength: 4, proves: ["průměrný výdělek 549,18 Kč/h", "moje mzdová základna", "3 souběžné smlouvy"], risk: "Musím dohledat DPP smlouvy — na těch pozicích jsem fakticky nepracovala.", tags: ["mzda", "DPP", "pracovněprávní"], people: ["Andrea Matis"] },
-  { id: "e-dpp", title: "DPP smlouvy TRAIVA + Traiva Safety", type: "Smlouvy", date: "2021-2026", strength: 4, proves: ["pozice podle mě jen formální — TRAIVA: „kompletace a úpravy výrobků“, Safety: „správa webu“", "reálně šlo o část mé mzdy", "limit 300 h/rok, 25 h/měsíc, výplata na můj běžný účet"], risk: "Kopie zajištěny — 4 podepsané dohody (2025 + 2026) na Drive.", file: "https://drive.google.com/drive/folders/1YLt0OQusVLWSpipF4unEdlyQHfjx130M", tags: ["DPP", "mzda", "pracovněprávní"], people: ["Andrea Matis"] },
+  { id: "e-dpp", title: "DPP smlouvy TRAIVA + Traiva Safety", type: "Smlouvy", date: "2021-2026", strength: 4, proves: ["mzda byla rozdělena mezi 1× HPP a 2× DPP — TRAIVA: „kompletace a úpravy výrobků“, Safety: „správa webu“", "šlo o standardní nastavení pro všechny zaměstnance, které jsem znala a akceptovala", "limit 300 h/rok, 25 h/měsíc, výplata na můj běžný účet"], risk: "Kopie zajištěny — 4 podepsané dohody (2025 + 2026) na Drive.", file: "https://drive.google.com/drive/folders/1YLt0OQusVLWSpipF4unEdlyQHfjx130M", tags: ["DPP", "mzda", "pracovněprávní"], people: ["Andrea Matis"] },
   { id: "e-oip", title: "OIP podnět připraven", type: "Úřední podání", date: "2026", strength: 3, proves: ["souhrn toho, co považuji za porušení vůči mně"], risk: "Zatím neodesláno — chci se poradit, zda a kdy podat (OIP Ostrava).", tags: ["OIP", "pracovněprávní"], people: ["Andrea Matis"] },
   { id: "e-vyzva", title: "Výzva 30. 4. 2026", type: "Výzva / přehled požadavků", date: "30. 4. 2026", strength: 5, proves: ["moje požadavky vznesené písemně", "poté začaly kroky proti mně"], risk: "Časovou návaznost považuji za důležitou — posoudí advokát.", tags: ["pracovněprávní", "obchodní"], people: ["Andrea Matis", "Karel Ospalík"] },
   { id: "e-email-208", title: "E-mail 11. 6. 2026", type: "E-mail", date: "11. 6. 2026", strength: 5, proves: ["moje žádost o přístupy", "ochota pracovat"], risk: "Odesláno z mé soukromé adresy ve 23:59 — firemní mi byla odebrána.", tags: ["mzda", "pracovněprávní"], people: ["Andrea Matis", "Karel Ospalík"] },
@@ -373,7 +373,6 @@ const documents = [
 ];
 
 const lawyerQuestions = [
-  "Jsou DPP na fiktivních pozicích neplatné a lze z nich přepočítat průměrný výdělek?",
   "Jaká je promlčecí lhůta pro bezdůvodné obohacení z Období I?",
   "Jsou podmínky odměňování z WhatsApp 20. 5. 2021 (k pozici produktové/obchodní manažerky) a příslib podílů z e-mailu 4. 8. 2023 s účinností od 1. 1. 2024 právně vymahatelné?",
   "Má nerealistický 2měsíční termín pro Odoo vliv na vymahatelnost nároku D?",
