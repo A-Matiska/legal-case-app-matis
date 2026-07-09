@@ -622,7 +622,7 @@ function renderNotes() {
     </div>
     <article class="card note-card" style="margin-top: 16px">
       <h2 class="section-heading">Kontext: struktura mzdy (HPP + DPP)</h2>
-      <p>Mzda byla ve firmě standardně rozdělena mezi hlavní pracovní poměr a dvě dohody o provedení práce (DPP TRAIVA s.r.o. a DPP Traiva Safety s.r.o.). Takhle to měli nastavené všichni zaměstnanci, věděli o tom a akceptovali to. DPP Traiva Safety byla v dubnu 2026 zrušena všem zaměstnancům v souvislosti s prodejem firmy — pro mě to znamenalo o 6 460 Kč čistého měsíčně méně, nešlo ale o krok mířený jen na mě. Uvádím to pro úplnost, aby byl jasný vývoj mého celkového příjmu při čtení výplatních pásek.</p>
+      <p>Mzda byla ve firmě standardně rozdělena mezi hlavní pracovní poměr a dvě dohody o provedení práce (DPP TRAIVA s.r.o. a DPP Traiva Safety s.r.o.). Takhle to měli nastavené všichni zaměstnanci, věděli o tom a akceptovali to. DPP Traiva Safety byla v dubnu 2026 zrušena všem zaměstnancům v souvislosti s prodejem firmy — pro mě to znamenalo o 6 460 Kč čistého měsíčně méně, nešlo ale o krok mířený jen na mě. Částka z DPP Traiva Safety byla všem zaměstnancům „přidána“ do mzdy z hlavního pracovního poměru. Uvádím to pro úplnost, aby byl jasný vývoj mého celkového příjmu při čtení výplatních pásek.</p>
     </article>
     <article class="card note-card" style="margin-top: 16px">
       <h2 class="section-heading">Moje prohlášení k projektu Odoo</h2>
