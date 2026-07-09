@@ -35,7 +35,7 @@ const events = [
     date: "~2022",
     year: "2022",
     title: "Přidávání a rozšiřování pracovní náplně, funkcí a pravomocí",
-    text: "Fakticky jsem podepisovala smlouvy, jednala s bankami a řešila personální věci ještě před formálním jmenováním. Postupně na mě majitel nabaloval čím dál širší agendu: zplnomocnění ve věcech pracovněprávních, jednání s bankou i se státními institucemi, hledání a vyjednávání podmínek s novými B2B partnery, výběrová řízení na veřejné zakázky, vyřizování dotací, zajišťování pracovnělékařských prohlídek pro zaměstnance a samostatnou expanzi a integraci na tři mezinárodní marketplaces. A spoustu dalších věcí, které si už ani nevybavím všechny.",
+    text: "Fakticky jsem podepisovala smlouvy, jednala s bankami a řešila personální věci ještě před formálním jmenováním. Postupně na mě majitel nabaloval čím dál širší agendu: zplnomocnění ve věcech pracovněprávních, jednání s bankou i se státními institucemi, hledání a vyjednávání podmínek s novými B2B partnery, výběrová řízení na veřejné zakázky, vyřizování dotací, zajišťování pracovnělékařských prohlídek pro zaměstnance a samostatnou expanzi a integraci na tři mezinárodní marketplaces. Když přišla jakákoliv kontrola (ČOI, živnostenský úřad, hasiči apod.), jednala jsem s nimi osobně, následně prováděla veškeré úkony k nápravě zjištění a komunikaci vedla tak, aby z toho firma měla vždy co nejmenší postih či sankce. A spoustu dalších věcí, které si už ani nevybavím všechny.",
     people: ["Andrea Matis"],
     evidence: ["Fio banka + smlouvy — Období I", "Smlouva o pracovnělékařských službách", "Fio dokumenty 8/2023"],
     legal: "Za tuto neustále rostoucí pracovní náplň jsem neměla žádnou smlouvu ani odměnu navíc — nevím, jestli z toho něco plyne.",
