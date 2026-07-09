@@ -469,10 +469,6 @@ function renderDashboard() {
   document.getElementById("view-dashboard").innerHTML = `
     <div class="dash-eyebrow">Spisový přehled · TRAIVA s.r.o.</div>
     ${titleBlock("Případ Andrea Matis", "Podklady, které jsem si připravila ke konzultaci: události, dokumenty a komunikace tak, jak je vnímám já. Právní posouzení nechávám na Vás.")}
-    <div class="stat-grid">
-      ${stat("Podklady", evidence.length, `z toho ${evidence.filter((e) => e.strength === 5).length}× považuji za klíčové`, "var(--accent-3)")}
-      ${stat("Otázky na konzultaci", lawyerQuestions.length, "sepsané v Poznámkách", "var(--accent)")}
-    </div>
     <div class="dashboard-layout">
       <article class="card summary-panel">
         <h2>Přehled případu</h2>
@@ -480,6 +476,7 @@ function renderDashboard() {
           <li><span>Události v časové ose</span><strong>${events.length}</strong></li>
           <li><span>Podklady</span><strong>${evidence.length}</strong></li>
           <li><span>Dokumenty</span><strong>${documents.length}</strong></li>
+          <li><span>Otázky na konzultaci</span><strong>${lawyerQuestions.length}</strong></li>
         </ul>
       </article>
       <article class="card insight-panel">
