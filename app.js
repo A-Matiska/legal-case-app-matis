@@ -123,10 +123,10 @@ const events = [
     date: "březen 2026",
     year: "2026",
     title: "Návrh režimu práce manažerů",
-    text: "Pan Ospalík předložil návrh k připomínkování; moje připomínky ale nebyly nijak zapracovány ani akceptovány.",
+    text: "Pan Ospalík předložil návrh k připomínkování; moje připomínky ale nebyly nijak zapracovány ani akceptovány. Režim se měl oficiálně týkat i kolegy Premuse — od doby, kdy jsem do firmy nastoupila, měla být podle mě jeho manažerská pozice upravena podle faktického stavu. Český zákoník práce ale jeho fakticky vykonávanou funkci (\"povolání zeť\") neřadí do žádné z prací; podle rozvrhu docházel do firmy hlavně k dobití auta a na procházku, aby bylo vidět, že tam byl.",
     people: ["Andrea Matis", "Karel Ospalík"],
     evidence: ["Vnitřní směrnice verze 1"],
-    legal: "Verze 1 zachycuje pravidla odměňování tak, jak jsem jim tehdy rozuměla — připomínkování bylo podle mě jen formální.",
+    legal: "Verze 1 zachycuje pravidla odměňování tak, jak jsem jim tehdy rozuměla — připomínkování bylo podle mě jen formální. Zvláštní pro mě je, že stejný přísný režim měl platit i pro pana Premuse, jehož skutečná pracovní náplň podle mě neodpovídala ničemu, co zákoník práce zná jako druh práce — chci se zeptat, co z tohoto nerovného zacházení plyne.",
     tags: ["mzda", "pracovněprávní"],
   },
   {
