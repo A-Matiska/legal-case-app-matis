@@ -58,4 +58,5 @@ export const documentAlias: Record<string, string> = {
   "Podklady pro advokáta": "d-main",
   "E-mail Ospalíka 2.–22. 4. 2026 — schválení předpisu \"mlčením\"": "d-rezim-schvaleni",
   "E-mail Ospalíka Hrdličkovi 27. 4. 2026 — \"jeden samouk\"": "d-origamis-samouk",
+  "E-mail Ospalíka 27. 4. 2026 — shrnutí párování plateb \"slátanina\"": "d-parovani-slatanina",
 };

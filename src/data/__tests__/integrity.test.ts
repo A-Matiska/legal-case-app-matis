@@ -7,10 +7,10 @@ import { personAlias, evidenceAlias, documentAlias } from "../relations";
 
 describe("content counts survive the rebuild", () => {
   it("matches the known-good counts extracted from the legacy app", () => {
-    expect(events.length).toBe(31);
+    expect(events.length).toBe(32);
     expect(evidence.length).toBe(22);
     expect(people.length).toBe(9);
-    expect(documents.length).toBe(39);
+    expect(documents.length).toBe(40);
     expect(lawyerQuestions.length).toBe(19);
   });
 });

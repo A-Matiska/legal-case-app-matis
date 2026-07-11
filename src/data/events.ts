@@ -387,6 +387,26 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     ]
   },
   {
+    "id": "ev-2026-slatanina",
+    "date": "27. 4. 2026",
+    "year": "2026",
+    "title": "Ospalík kritizuje mé shrnutí projektu a moje pracovní tempo",
+    "text": "Téhož dne (27. 4. 2026) mi Ospalík odpověděl i na shrnutí aktuálního stavu projektu párování plateb v Odoo, které jsem mu poslala 23. 4. 2026. Šlo záměrně jen o stručné shrnutí — kompletní podrobnou projektovou dokumentaci (desítky stran) jsem měla připravenou, ale on sám řekl, že si tak rozsáhlý dokument nepřečte, takže jsem mu podle jeho vlastního přání poslala jen zhuštěný přehled. Přesto ho označil za „z části nepravdivou slátaninu vytvořenou na základě neúplných nebo zavádějících informací“ a sarkasticky psal o „odbornících“ v uvozovkách. Dodal: „není to tím, že by jsi neuměla dobře pracovat. Je to tím, že pod tlakem si neumíš organizovat čas, vytýčit priority a pracovat týmově“ — a rovnou to spojil s trváním na dodržování vnitřního předpisu Režim práce manažerů.",
+    "legal": "Kritizoval shrnutí, které vzniklo přesně podle jeho vlastního zadání — sám odmítl číst obsáhlou dokumentaci, a když jsem mu proto poslala stručnější verzi, vytkl mi, že je to nepravdivé a povrchní. Přijde mi to jako rozpor, který sám vyrobil. Zároveň to znovu propojuje s předpisem o režimu práce manažerů, který zmiňuji u bodu 16.",
+    "tags": [
+      "Odoo",
+      "pracovněprávní",
+      "diskriminace"
+    ],
+    "personRefs": [
+      "Andrea Matis",
+      "Karel Ospalík"
+    ],
+    "evidenceRefs": [
+      "E-mail Ospalíka 27. 4. 2026 — shrnutí párování plateb \"slátanina\""
+    ]
+  },
+  {
     "id": "ev-2026-vyzva",
     "date": "30. 4. 2026",
     "year": "2026",

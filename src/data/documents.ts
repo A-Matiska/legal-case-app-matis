@@ -261,6 +261,16 @@ export const documents: CaseDocument[] = [
     ]
   },
   {
+    "id": "d-parovani-slatanina",
+    "title": "E-mail Ospalíka 27. 4. 2026 — shrnutí párování plateb \"slátanina\"",
+    "type": "E-mail",
+    "date": "27. 4. 2026",
+    "tags": [
+      "Odoo",
+      "diskriminace"
+    ]
+  },
+  {
     "id": "d-rezim-schvaleni",
     "title": "E-mail Ospalíka 2.–22. 4. 2026 — schválení předpisu \"mlčením\"",
     "type": "E-mail",
