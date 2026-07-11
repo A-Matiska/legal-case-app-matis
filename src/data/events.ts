@@ -412,8 +412,8 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "date": "30. 4. 2026",
     "year": "2026",
     "title": "Výzva a přehled požadavků",
-    "text": "Poslala jsem výzvu s přehledem svých požadavků; krátce poté začaly kroky proti mně.",
-    "legal": "Časová návaznost dalších událostí na tuto výzvu mi přijde důležitá.",
+    "text": "Připravila jsem výzvu s přehledem svých požadavků, ale nakonec jsem ji neposlala.",
+    "legal": "Dokument dokládá, jak jsem tehdy vnímala situaci a jaké požadavky bych měla — i když jsem ho nakonec neodeslala.",
     "tags": [
       "pracovněprávní",
       "obchodní"
