@@ -265,12 +265,11 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "date": "září 2025",
     "year": "2025",
     "title": "Najat Tomáš Maralík a zesílení e-mailových výtek",
-    "text": "Byl najat nový IT kolega Tomáš Maralík, který měl postupně převzít ERP agendu — podle mě k tomu ale neměl dostatečné zkušenosti. Zároveň zesílily e-mailové výtky, urgence a postupné omezování mého postavení.",
-    "legal": "Vnímám to jako druhou fázi tlaku, který začal už v červnu odebráním mzdové agendy a odtud dál gradoval. Zpětně to vidím jako přípravu na moje nahrazení.",
+    "text": "I přesto, že jsme se v srpnu shodli, že toto ještě necháme otevřené, mi Ospalík oznámil, že byl najat nový kolega Tomáš Maralík, který dříve pracoval v jiné firmě jako IT, s pokynem, že by měl postupně převzít ERP agendu. Nesouhlasila jsem s tím, ale dala jsem tomu šanci a několikrát jsem si ho na různých situacích otestovala — pracoval ale v jiném IT oboru a neměl dostatečné zkušenosti se žádným ze systémů, které se u nás používaly. Zadání zatím dostával pouze od Ospalíka a netýkalo se agendy, kterou jsem spravovala nebo nastavovala já (e-shop, interní systémy, ERP). Zároveň zesílily e-mailové výtky, urgence a postupné omezování mého postavení.",
+    "legal": "Vnímám to jako druhou fázi tlaku, který začal už v červnu odebráním mzdové agendy a odtud dál gradoval. Zpětně to vidím jako začátek přípravy na moje nahrazení.",
     "tags": [
       "Odoo",
-      "pracovněprávní",
-      "diskriminace"
+      "pracovněprávní"
     ],
     "personRefs": [
       "Andrea Matis",
