@@ -100,12 +100,12 @@ export const people: Person[] = [
   {
     "id": "p-vojtech",
     "name": "Vojtěch Ospalík",
-    "role": "související osoba u odvolání a interních kroků",
+    "role": "syn majitele Karla Ospalíka · fiktivně zaměstnaný v TRAIVA s.r.o.",
     "documents": 3,
     "events": 2,
     "claims": 1,
     "tags": [
-      "jednatel"
+      "pracovněprávní"
     ]
   }
 ];
