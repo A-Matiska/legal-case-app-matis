@@ -195,7 +195,7 @@ export const documents: CaseDocument[] = [
       "jednatel",
       "obchodní"
     ],
-    "file": "https://drive.google.com/file/d/1qRMMzc0uhl8roKjXbLnyE7bSu-to3_ID/view"
+    "file": "https://docs.google.com/document/d/1qRMMzc0uhl8roKjXbLnyE7bSu-to3_ID/edit"
   },
   {
     "id": "d-gps",
