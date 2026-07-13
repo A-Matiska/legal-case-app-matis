@@ -155,17 +155,6 @@ export const documents: CaseDocument[] = [
     "file": "https://drive.google.com/file/d/1CaXnuzkUO5jItixm90We5bK4vukU4iR7/view"
   },
   {
-    "id": "d-odoo-strategie",
-    "title": "Odoo párování plateb — strategické podklady",
-    "type": "můj interní podklad (důvěrné)",
-    "date": "22. 4. 2026",
-    "tags": [
-      "Odoo",
-      "obchodní"
-    ],
-    "file": "https://drive.google.com/file/d/11PCHAUQUmFpzWnAp6kou09I6cYwuGYbM/view"
-  },
-  {
     "id": "d-rekonciliace",
     "title": "Finanční rekonciliace (FINAL)",
     "type": "důvěrný finanční podklad",
