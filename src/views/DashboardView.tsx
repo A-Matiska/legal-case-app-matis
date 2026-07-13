@@ -1,5 +1,4 @@
 import { events, evidence, people, documents, lawyerQuestions } from "../data";
-import { TitleBlock } from "../components/TitleBlock";
 import { useCaseDispatch } from "../state/caseStore";
 
 const INITIALS: Record<string, string> = {
@@ -48,12 +47,6 @@ export function DashboardView() {
 
   return (
     <section className="view" data-view="dashboard" id="view-dashboard">
-      <div className="dash-eyebrow">Spisový přehled · TRAIVA s.r.o.</div>
-      <TitleBlock
-        title="Případ Andrea Matis"
-        subtitle="Podklady ke konzultaci — události, dokumenty a komunikace tak, jak je vnímám já. Právní posouzení nechávám na Vás."
-      />
-
       {/* Klíčové osoby */}
       <div className="dash-people-row">
         {keyPeople.map((p) => (
