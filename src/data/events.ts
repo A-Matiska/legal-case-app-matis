@@ -375,7 +375,7 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "tags": [
       "Odoo",
       "pracovněprávní",
-      "diskriminace"
+      "pracovněprávní"
     ],
     "personRefs": [
       "Andrea Matis",
@@ -395,7 +395,7 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "tags": [
       "Odoo",
       "pracovněprávní",
-      "diskriminace"
+      "pracovněprávní"
     ],
     "personRefs": [
       "Andrea Matis",
@@ -423,6 +423,46 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "evidenceRefs": [
       "Výzva 30. 4. 2026",
       "Finanční rekonciliace"
+    ]
+  },
+  {
+    "id": "ev-2026-dataroom",
+    "date": "3.–4. 5. 2026",
+    "year": "2026",
+    "title": "Data Room pro due diligence — konfrontace Ospalíka a valuace 90 mil. Kč",
+    "text": "3. 5. 2026 mi Ospalík napsal, že Karel Neffe ho informoval, že jsem mu sdělila zpoždění kompletace dataroomu. Ospalík pak v e-mailu rozebral jednotlivé položky DD a u většiny konstatoval, že je lze dodat okamžitě nebo do týdne — e-mail zakončil: „Takže nevím proč se kompletace dataroomu se zpozdí.“ Navazující den (4. 5.) jsem Ospalíkovi zaslala finanční přehled struktury nákladů Traivy 2021–2025, který si Neffe vyžádal jako podklad pro investory — přehled vycházel výhradně z dat dataroomu a auditovaných závěrek. Požádala jsem Ospalíka o připomínky do 5. 5., protože Neffe měl 6. 5. jednání s investory. Z vlákna vyplývá dohodnutá transakční cena: normalizovaná EBITDA 12,1 mil. Kč × 5 = 60 mil. Kč + nemovitost 30 mil. Kč = 90 mil. Kč.",
+    "legal": "Data Room jsem aktivně připravovala já. Ospalík sám v e-mailu prokázal, že většina položek mohla být dodána rychle — přesto mě den předtím konfrontoval se zprávou, že zpoždění přišlo ‚od Andreji'. Pět pracovních dnů po tomto e-mailovém vláknu (12. 5.) jsem byla odvolána. Vychází mi, že prodej firmy Neffemu aktivně probíhal v době mého odvolání — a přitom jsem to byla já, kdo DD koordinoval. Dávám to do přímé souvislosti s otázkou pro advokáta ‚Dá se prodej firmy nějak pozastavit, dokud se nevypořádají moje nároky?'",
+    "tags": [
+      "obchodní",
+      "pracovněprávní"
+    ],
+    "personRefs": [
+      "Andrea Matis",
+      "Karel Ospalík",
+      "Karel Neffe"
+    ],
+    "evidenceRefs": [
+      "E-mail Ospalíka 3. 5. 2026 — Data Room",
+      "E-mail AM 4. 5. 2026 — finanční přehled pro DD"
+    ]
+  },
+  {
+    "id": "ev-2026-vysledky-prace",
+    "date": "6. 5. 2026",
+    "year": "2026",
+    "title": "Požadavek Ospalíka na „Výsledky práce“",
+    "text": "6. 5. 2026 mi Ospalík napsal: „Možná jen nemám informace, protože se Ti neodesílaly e-maily.“ Požadoval seznam názvů marketingových akcí za rok 2025 a 2026, které měly „významný, odhadnutelný nebo vyčíslitelný dopad na ekonomiku firmy“.",
+    "legal": "E-mail přišel 6. 5. 2026 — šest dní před mým odvoláním a v době aktivního DD procesu pro prodej firmy Neffemu. Interpretuju ho jako snahu retroaktivně dokladovat, že moje práce nemá měřitelný přínos — nebo jako přípravu podkladů pro odvolání. Formulace ‚možná se Ti neodesílaly e-maily' mi přijde jako předjímání omezení přístupů, ke kterému pak skutečně došlo.",
+    "tags": [
+      "pracovněprávní",
+      "mzda"
+    ],
+    "personRefs": [
+      "Andrea Matis",
+      "Karel Ospalík"
+    ],
+    "evidenceRefs": [
+      "E-mail Ospalíka 6. 5. 2026 — Výsledky práce"
     ]
   },
   {
@@ -536,9 +576,9 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "id": "ev-2026-karta",
     "date": "19. 5. 2026",
     "year": "2026",
-    "title": "Pozastavení plateb na firemní kartě",
-    "text": "Platby na mé firemní kartě byly jednostranně pozastaveny. O tři dny později, 22. 5. 2026, jsem si od Ospalíka (přes Evu Orel) vyžádala celý výpis z karty — potřebovala jsem ho reklamovat všechny částky, které z ní byly strženy neoprávněně, včetně jedné, která mi byla omylem naúčtována.",
-    "legal": "Další omezení hned po odvolání. Výpis jsem si vyžádala proto, abych doložila neoprávněné a chybné položky, ne abych něco skrývala.",
+    "title": "Pozastavení plateb na firemní kartě — obvinění ze soukromých plateb",
+    "text": "19. 5. 2026 mi Ospalík poslal e-mail s předmětem „Obrat vs náklady“: „Za rok jsme zvýšili obrat o 3 miliony a náklady na kartě a i jiné, jsi zvýšilo o 2,5 milionů. Pozastavuji nové platby na Tvé kartě do doby než budou dodány všechny účty a vyřešeny některé zřejmě soukromé platby. Vše na základě firemních předpisů. Jen na kartě 1,7 mil. Náklady za posledních 12 měsíců. Musíme to vyhodnotit.“ O tři dny později, 22. 5. 2026, jsem si vyžádala celý výpis z karty — potřebovala jsem doložit všechny položky, které z ní byly strženy neoprávněně nebo chybně, a obvinění ze soukromých plateb vyvrátit.",
+    "legal": "Obvinění ze ‚zřejmě soukromých plateb' přišlo sedm dní po odvolání, bez předložení konkrétních položek. Výpis jsem si vyžádala sama proto, abych je mohla reklamovat a obvinění vyvrátit — ne proto, abych něco skrývala. Zajímá mě, jak se toto obvinění posuzuje, když kartou platila i Eva Orel a případně jiní zaměstnanci.",
     "tags": [
       "jednatel",
       "pracovněprávní"

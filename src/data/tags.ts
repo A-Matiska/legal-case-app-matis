@@ -7,7 +7,6 @@ export const tags: TagId[] = [
   "Odoo",
   "mzda",
   "DPP",
-  "diskriminace",
   "jednatel",
   "OIP",
   "GPS",

@@ -257,7 +257,7 @@ export const documents: CaseDocument[] = [
     "date": "27. 4. 2026",
     "tags": [
       "Odoo",
-      "diskriminace"
+      "pracovněprávní"
     ]
   },
   {
@@ -267,7 +267,7 @@ export const documents: CaseDocument[] = [
     "date": "27. 4. 2026",
     "tags": [
       "Odoo",
-      "diskriminace"
+      "pracovněprávní"
     ]
   },
   {
