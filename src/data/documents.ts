@@ -331,17 +331,6 @@ export const documents: CaseDocument[] = [
     "file": "https://drive.google.com/file/d/1bPYww1sHboUIAW-zus83_VsrdL1GrJTr/view"
   },
   {
-    "id": "d-analyza",
-    "title": "Situační analýza (verze 15)",
-    "type": "můj podrobný popis situace",
-    "date": "2026",
-    "tags": [
-      "pracovněprávní",
-      "obchodní"
-    ],
-    "file": "https://drive.google.com/file/d/1nl1ihjBOb6CdPmWvr746cLB8qs9LX8iG/view"
-  },
-  {
     "id": "d-advokat-v3",
     "title": "Podklad pro advokáta v3 (DOCX)",
     "type": "starší verze hlavního spisu",
