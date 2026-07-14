@@ -52,7 +52,7 @@ export function Sidebar({ open, onClose }: { open: boolean; onClose: () => void 
 
       <div className="sidebar-footer">
         <button
-          className="icon-button"
+          className="icon-button theme-toggle"
           type="button"
           aria-label="Přepnout režim zobrazení"
           title="Přepnout režim"

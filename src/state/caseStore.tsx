@@ -11,7 +11,7 @@ type Action =
   | { type: "HYDRATE"; view?: ViewId; selectedId?: string | null };
 
 function initialState(): CaseState {
-  const theme = (localStorage.getItem("case-theme") as "light" | "dark" | null) || "light";
+  const theme = (localStorage.getItem("case-theme") as "light" | "dark" | null) || "dark";
   return { view: "dashboard", query: "", filters: new Set(), selectedId: null, theme };
 }
 

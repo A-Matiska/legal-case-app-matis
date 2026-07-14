@@ -45,9 +45,20 @@ button {
   display: flex;
   flex-direction: column;
   gap: 22px;
-  padding: 24px 16px;
+  padding: 28px 16px 24px;
   border-right: 1px solid var(--line);
   background: var(--panel);
+}
+
+.sidebar::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--m-blue) 0%, var(--m-violet) 50%, var(--m-red) 100%);
+  pointer-events: none;
 }
 
 .brand {
@@ -64,10 +75,11 @@ button {
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  background: var(--text);
-  color: var(--panel);
-  font-weight: 600;
+  background: linear-gradient(135deg, var(--m-blue), var(--m-violet));
+  color: #ffffff;
+  font-weight: 700;
   font-size: 24px;
+  flex-shrink: 0;
 }
 
 .brand strong,
@@ -118,6 +130,7 @@ button {
 .nav-item[aria-current="page"] {
   background: var(--panel-strong);
   font-weight: 600;
+  color: var(--accent);
 }
 
 .nav-left {
@@ -147,6 +160,11 @@ button {
   gap: 10px;
   margin-top: auto;
   padding: 0 4px;
+}
+
+.theme-toggle {
+  border: 1px solid var(--line-strong);
+  font-size: 17px;
 }
 
 .workspace {
@@ -1261,6 +1279,14 @@ textarea:focus {
   .document-grid,
   .claim-grid {
     grid-template-columns: 1fr;
+  }
+
+  .dash-people-row {
+    grid-template-columns: 1fr;
+  }
+
+  .dash-stats-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .timeline {

@@ -1,4 +1,31 @@
 :root {
+  color-scheme: dark;
+  /* BMW M dark — výchozí motiv */
+  --bg: #000000;
+  --panel: #111113;
+  --panel-strong: #1c1c1e;
+  --text: #f5f5f7;
+  --muted: #86868b;
+  --line: #222224;
+  --line-strong: #38383a;
+  --accent: #2997ff;
+  --accent-hover: #4ba5ff;
+  --accent-2: #30d158;
+  --accent-3: #ffd60a;
+  --danger: #ff453a;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.55);
+  --shadow-lift: 0 6px 28px rgba(0, 0, 0, 0.75);
+  --radius: 18px;
+  --radius-sm: 12px;
+  --sidebar-width: 288px;
+  --detail-width: 330px;
+  /* BMW M stripe */
+  --m-blue:   #0053d6;
+  --m-violet: #5e2f94;
+  --m-red:    #c1001f;
+}
+
+:root[data-theme="light"] {
   color-scheme: light;
   --bg: #f5f5f7;
   --panel: #ffffff;
@@ -14,26 +41,22 @@
   --danger: #de3131;
   --shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
   --shadow-lift: 0 4px 24px rgba(0, 0, 0, 0.09);
-  --radius: 18px;
-  --radius-sm: 12px;
-  --sidebar-width: 288px;
-  --detail-width: 330px;
 }
 
 :root[data-theme="dark"] {
   color-scheme: dark;
   --bg: #000000;
-  --panel: #1d1d1f;
-  --panel-strong: #2c2c2e;
+  --panel: #111113;
+  --panel-strong: #1c1c1e;
   --text: #f5f5f7;
   --muted: #86868b;
-  --line: #2c2c2e;
-  --line-strong: #424245;
+  --line: #222224;
+  --line-strong: #38383a;
   --accent: #2997ff;
   --accent-hover: #4ba5ff;
   --accent-2: #30d158;
   --accent-3: #ffd60a;
   --danger: #ff453a;
-  --shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
-  --shadow-lift: 0 6px 28px rgba(0, 0, 0, 0.55);
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.55);
+  --shadow-lift: 0 6px 28px rgba(0, 0, 0, 0.75);
 }
