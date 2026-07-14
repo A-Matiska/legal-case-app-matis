@@ -617,9 +617,9 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "id": "ev-2026-eskalace-9-6",
     "date": "9. 6. 2026",
     "year": "2026",
-    "title": "WhatsApp eskalace a telefonický nátlak — tlak na komunikaci mimo písemný záznam",
-    "text": "Den po incidentu s BMW (8. 6. 2026) Ospalík eskaloval přes WhatsApp a telefonicky. Vyvíjel na mě nátlak, abych přestala komunikovat písemně a přešla na komunikaci, která nezanechá záznam — opakovaně mě žádal o telefonické hovory místo e-mailů a zpráv. Zároveň se pokoušel svolat interní poradu — nejprve jen se mnou, pak s dalšími zaměstnanci — bez jasně stanoveného programu a bezprostředně po dni, kdy mě na pracovišti fakticky uzavřel bez klíčů od auta.",
-    "legal": "Tlak na přechod z písemné na ústní komunikaci hned po incidentu s vozidlem považuji za záměrnou snahu omezit důkazní stopu. Chci probrat, zda toto jednání může mít právní relevanci — zejm. v kontextu obstrukce dokazování nebo šikany na pracovišti. Odmítnutí písemné komunikace jsem doložila vlastní žádostí o písemnou formu (e-mail 11. 6. 2026).",
+    "title": "Eskalace po incidentu: zrušení home office, svolání dvou porad a nátlak na off-record komunikaci (8.–10. 6. 2026)",
+    "text": "Bezprostředně po incidentu s BMW (8. 6. 2026) Ospalík v 15:07 napsal na WhatsApp: „Dokud nebudou vyřešeny všechny resty, do odvolání ruším tvoji práci z domova. Ode dneška.\" (v originále napsal „testy\", vzápětí opravil na „resty\"). Dne 9. 6. 2026 v 18:41 oznámil: „Zítra 10.6. v 8:00 je porada vedení.\" Porady jsem se nemohla zúčastnit — večer 9. 6. mi bylo špatně po lékařském vyšetření, ráno 10. 6. jsem šla na krev, CT a předoperační vyšetření. Omluvu jsem zaslala na WhatsApp a lékařské záznamy na e-mail. Ospalík v průběhu 10. 6. volal opakovaně (zmeškaný hovor 15:51 a 20:54), psal výhružné zprávy o „nemluvených směnách\" a v 19:23 svolal další poradu: „Zítra 7:30 je porada vedoucích k projektu. Účast nutná.\" Ani té jsem se 11. 6. nemohla zúčastnit ze zdravotních důvodů. Po celou tuto dobu mi byl odepřen přístup k pracovnímu e-mailu, takže jsem nemohla doložit ani doklady, které po mně zároveň vyžadoval.",
+    "legal": "Zrušení home office „do odvolání\" bez předchozího projednání považuji za jednostrannou změnu pracovních podmínek (pracovní smlouva home office obsahuje). Svolávání porad ve chvíli, kdy jsem prokazatelně ze zdravotních důvodů nemohla přijít — a hrozba „nemluvených směn\" za absenci ze zdravotních důvodů — chci probrat jako možné šikanózní jednání. Nátlak na telefonickou (off-record) komunikaci ihned po incidentu vnímám jako snahu omezit důkazní stopu. Žádost o písemnou formu veškeré komunikace jsem zaslala 11. 6. 2026.",
     "tags": [
       "pracovněprávní",
       "GPS"
@@ -634,11 +634,11 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
   },
   {
     "id": "ev-2026-porada-difamace",
-    "date": "9. 6. 2026",
+    "date": "10. 6. 2026",
     "year": "2026",
-    "title": "Interní porada — zákaz vstupu, zákaz kontaktu, nařčení z krádeže 100 000 Kč",
-    "text": "Ospalík svolal celou firmu na interní poradu. Na ní zaměstnancům sdělil: (1) mám zákaz vstupu do prostor společnosti; (2) zaměstnancům zakázal jakýkoli kontakt se mnou — pod hrozbou výpovědi; (3) sdělil jim, že jsem ukradla z firemního účtu 100 000 Kč a dosud je nevrátila. Tato tvrzení jsou nepravdivá. O poradě a jejím obsahu jsem se dozvěděla zprostředkovaně od zaměstnanců, kteří mě kontaktovali — přestože jim to bylo výslovně zakázáno.",
-    "legal": "Veřejné nařčení z krádeže před kolektivem zaměstnanců pod hrozbou jejich vlastního propuštění považuji za závažné — může jít o difamaci (poškození dobré pověsti), nátlak na svědky a případně o trestněprávně relevantní jednání. Zároveň zákaz kontaktu zaměstnanců se mnou pod hrozbou výpovědi vnímám jako obstrukci mého přístupu k důkazům a potenciálně jako nátlak na svědky před soudním řízením. Chci probrat, jak toto prokázat a jaký má dopad na pracovní spor i na případné trestní oznámení.",
+    "title": "Porada vedení 10. 6. — zákaz vstupu, zákaz kontaktu se zaměstnanci, nařčení z krádeže 100 000 Kč",
+    "text": "Ospalík svolal poradu vedení na 10. 6. 2026 v 8:00 (oznámení WhatsApp 9. 6. v 18:41). Nebyla jsem přítomna — hospitalizace a vyšetření po lékařském zákroku 9. 6. Na poradě sdělil zaměstnancům: (1) mám zákaz vstupu do prostor společnosti; (2) zaměstnancům zakázal jakýkoli kontakt se mnou pod hrozbou výpovědi; (3) prohlásil, že jsem ukradla z firemního účtu 100 000 Kč a dosud je nevrátila. Tato tvrzení jsou nepravdivá. O obsahu porady jsem se dozvěděla zprostředkovaně od zaměstnanců, kteří mě kontaktovali přes osobní kanály, přestože jim to bylo výslovně zakázáno. Ještě týž den v 19:23 Ospalík svolal druhou poradu na 11. 6. v 7:30 („porada vedoucích k projektu, účast nutná\") — ani té jsem se nemohla zúčastnit ze zdravotních důvodů.",
+    "legal": "Veřejné nařčení z krádeže před kolektivem zaměstnanců považuji za difamaci (poškození dobré pověsti) a zároveň za potenciálně trestněprávně relevantní jednání. Zákaz kontaktu zaměstnanců se mnou pod hrozbou výpovědi vnímám jako: (a) obstrukci mého přístupu k důkazům a svědkům; (b) nátlak na potenciální svědky před soudním/správním řízením; (c) psychický nátlak na zaměstnance samotné (hrozba ztráty zaměstnání). Chci probrat, zda je prokazatelné nařčení z krádeže bez právního podkladu samostatným deliktním titulem a jak zajistit svědecké výpovědi zaměstnanců, kteří mi informaci předali.",
     "tags": [
       "pracovněprávní",
       "obchodní"
