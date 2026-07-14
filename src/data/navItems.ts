@@ -4,36 +4,36 @@ export const navItems: NavItem[] = [
   {
     "id": "dashboard",
     "label": "Dashboard",
-    "icon": "⌂"
+    "icon": "⊹"
   },
   {
     "id": "timeline",
     "label": "Časová osa",
-    "icon": "│"
+    "icon": "◷"
   },
   {
     "id": "evidence",
     "label": "Podklady",
-    "icon": "□"
+    "icon": "◈"
   },
   {
     "id": "people",
     "label": "Osoby",
-    "icon": "○"
+    "icon": "◎"
   },
   {
     "id": "documents",
     "label": "Dokumenty",
-    "icon": "▤"
+    "icon": "▦"
   },
   {
     "id": "notes",
     "label": "Poznámky",
-    "icon": "✎"
+    "icon": "◐"
   },
   {
     "id": "export",
     "label": "Export",
-    "icon": "⇩"
+    "icon": "↧"
   }
 ] as NavItem[];

@@ -45,9 +45,9 @@ button {
   display: flex;
   flex-direction: column;
   gap: 22px;
-  padding: 28px 16px 24px;
+  padding: 30px 16px 24px;
   border-right: 1px solid var(--line);
-  background: var(--panel);
+  background: var(--panel-strong);
 }
 
 .sidebar::before {
@@ -56,7 +56,7 @@ button {
   top: 0;
   left: 0;
   right: 0;
-  height: 4px;
+  height: 6px;
   background: linear-gradient(90deg, var(--m-blue) 0%, var(--m-violet) 50%, var(--m-red) 100%);
   pointer-events: none;
 }
@@ -124,13 +124,16 @@ button {
 }
 
 .nav-item:hover {
-  background: var(--panel-strong);
+  background: color-mix(in srgb, var(--text) 6%, transparent);
 }
 
 .nav-item[aria-current="page"] {
-  background: var(--panel-strong);
+  background: color-mix(in srgb, var(--m-blue) 10%, transparent);
   font-weight: 600;
-  color: var(--accent);
+  color: var(--m-blue);
+  border-left: 3px solid var(--m-blue);
+  border-radius: 0 10px 10px 0;
+  padding-left: 9px;
 }
 
 .nav-left {
