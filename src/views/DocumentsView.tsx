@@ -43,7 +43,9 @@ function DocumentCard({ item }: { item: CaseDocument }) {
             Otevřít soubor ↗
           </a>
         ) : (
-          <span className="file-missing">soubor zatím nenahrán</span>
+          <span className="file-missing">
+            {item.unavailableReason ?? "soubor zatím nenahrán"}
+          </span>
         )}
       </div>
     </CardShell>
@@ -63,7 +65,10 @@ export function DocumentsView() {
             <a href={driveFolderUrl} target="_blank" rel="noopener noreferrer">
               otevřít celou složku
             </a>
-            . Kde odkaz zatím chybí, soubor teprve nahraji.
+            . Kde odkaz chybí, je to buď proto, že soubor ještě nenahraju,
+            nebo — u části podkladů z firemního e-mailu, SharePointu či
+            Trella — se k originálu bez přístupu na firemní profil vůbec
+            nedostanu.
           </>
         }
       />

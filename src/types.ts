@@ -77,6 +77,8 @@ export interface CaseDocument extends Base {
   date: string;
   file?: string;
   text?: string;
+  /** Why the file isn't linked yet — e.g. stuck on a company account we no longer have access to. */
+  unavailableReason?: string;
 }
 
 export type DetailKind = "Událost" | "Podklad" | "Osoba" | "Dokument";

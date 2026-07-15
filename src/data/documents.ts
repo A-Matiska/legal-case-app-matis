@@ -368,7 +368,8 @@ export const documents: CaseDocument[] = [
       "Odoo",
       "pracovněprávní"
     ],
-    "text": "Ospalík napsal obchodnímu partnerovi Hrdličkovi z firmy Origamis — s nímž jsem sama jednala o zakázce — že jde o „jednoho samouka”. Nejde o interní kritiku: znevažování mé odbornosti proběhlo přímo navenek, vůči dodavateli, se kterým jsem aktivně spolupracovala."
+    "text": "Ospalík napsal obchodnímu partnerovi Hrdličkovi z firmy Origamis — s nímž jsem sama jednala o zakázce — že jde o „jednoho samouka”. Nejde o interní kritiku: znevažování mé odbornosti proběhlo přímo navenek, vůči dodavateli, se kterým jsem aktivně spolupracovala.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-parovani-slatanina",
@@ -379,7 +380,8 @@ export const documents: CaseDocument[] = [
       "Odoo",
       "pracovněprávní"
     ],
-    "text": "Ospalík označil mé shrnutí průběhu párování plateb za „slátaninu” — přestože vzniklo přesně podle jeho vlastního zadání: odmítl číst obsáhlou dokumentaci a vyžádal si kratší verzi. Tu pak označil za povrchní a nepravdivou. Rozpor, který sám vyrobil."
+    "text": "Ospalík označil mé shrnutí průběhu párování plateb za „slátaninu” — přestože vzniklo přesně podle jeho vlastního zadání: odmítl číst obsáhlou dokumentaci a vyžádal si kratší verzi. Tu pak označil za povrchní a nepravdivou. Rozpor, který sám vyrobil.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-neffe-vypoved",
@@ -389,7 +391,8 @@ export const documents: CaseDocument[] = [
     "tags": [
       "vozidla"
     ],
-    "text": "Skutečný majitel vozidla Karel Neffe vypověděl Ospalíkovi nájemní smlouvu bezprostředně poté, co zjistil, že Ospalík lhal o GPS lokalizaci a smazal přístup k datům z vozidla. Neffe se tak sám přidal na moji stranu sporu — jeho reakce potvrzuje moji verzi incidentu s BMW."
+    "text": "Skutečný majitel vozidla Karel Neffe vypověděl Ospalíkovi nájemní smlouvu bezprostředně poté, co zjistil, že Ospalík lhal o GPS lokalizaci a smazal přístup k datům z vozidla. Neffe se tak sám přidal na moji stranu sporu — jeho reakce potvrzuje moji verzi incidentu s BMW.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-vypis-karty-22-5",
@@ -400,7 +403,8 @@ export const documents: CaseDocument[] = [
       "jednatel",
       "pracovněprávní"
     ],
-    "text": "Výpis jsem si vyžádala 22. 5. 2026 sama, abych mohla vyvrátit obvinění ze „zejmě soukromých plateb\" z e-mailu Ospalíka (19. 5. 2026, předmět „Obrat vs náklady\"). Firemní karta sloužila jako hlavní platební prostředek pro online marketingové systémy (Meta Ads, Google Ads), PPC poplatky a SW licence — výdaje přímo svázané s obratem eshopu — a pro drobné firemní nákupy. Kartou platila i Eva Orel a případně další zaměstnanci, přesto obvinění míří výhradně na mě. Moje role správce reklamních účtů Google Ads je doložitelná notifikačními e-maily z reklamních účtů Google, kde jsem byla vedena jako administrátor — tyto e-maily prokazují, že platby za Google Ads na kartě jsou firemní výdaje přímo řízené mnou v rámci pracovní náplně, ne soukromé výdaje. Výpis je podkladem pro reklamaci neoprávněných nebo nesprávně účtovaných položek a pro vyvrácení tvrzení o soukromých výdajích."
+    "text": "Výpis jsem si vyžádala 22. 5. 2026 sama, abych mohla vyvrátit obvinění ze „zejmě soukromých plateb\" z e-mailu Ospalíka (19. 5. 2026, předmět „Obrat vs náklady\"). Firemní karta sloužila jako hlavní platební prostředek pro online marketingové systémy (Meta Ads, Google Ads), PPC poplatky a SW licence — výdaje přímo svázané s obratem eshopu — a pro drobné firemní nákupy. Kartou platila i Eva Orel a případně další zaměstnanci, přesto obvinění míří výhradně na mě. Moje role správce reklamních účtů Google Ads je doložitelná notifikačními e-maily z reklamních účtů Google, kde jsem byla vedena jako administrátor — tyto e-maily prokazují, že platby za Google Ads na kartě jsou firemní výdaje přímo řízené mnou v rámci pracovní náplně, ne soukromé výdaje. Výpis je podkladem pro reklamaci neoprávněných nebo nesprávně účtovaných položek a pro vyvrácení tvrzení o soukromých výdajích.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-dd-podklad",
@@ -411,7 +415,8 @@ export const documents: CaseDocument[] = [
       "obchodní",
       "jednatel"
     ],
-    "text": "Ospalík požadoval seznam marketingových akcí s „vyčíslitelným dopadem na ekonomiku firmy” — e-mail přišel šest dní před mým odvoláním v době aktivního due diligence procesu. Vnímám ho jako přípravu podkladů pro odvolání nebo snahu retroaktivně dokladovat, že moje práce nemá měřitelný přínos."
+    "text": "Ospalík požadoval seznam marketingových akcí s „vyčíslitelným dopadem na ekonomiku firmy” — e-mail přišel šest dní před mým odvoláním v době aktivního due diligence procesu. Vnímám ho jako přípravu podkladů pro odvolání nebo snahu retroaktivně dokladovat, že moje práce nemá měřitelný přínos.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-najem-auta",
@@ -422,7 +427,8 @@ export const documents: CaseDocument[] = [
       "vozidla",
       "pracovněprávní"
     ],
-    "text": "Ospalík mi v tomto e-mailu napsal: „Nepiš mi emaily z andrea@gt-sports.cz nebo jiných než firemního.” Zároveň vytkl, že nezná navrhovanou prodejní cenu starého vozidla — označil to za „opět porušení firemní instrukce i zvyku ve firmě.” Dávám do přímé souvislosti s pozdějším odebráním firemních přístupů."
+    "text": "Ospalík mi v tomto e-mailu napsal: „Nepiš mi emaily z andrea@gt-sports.cz nebo jiných než firemního.” Zároveň vytkl, že nezná navrhovanou prodejní cenu starého vozidla — označil to za „opět porušení firemní instrukce i zvyku ve firmě.” Dávám do přímé souvislosti s pozdějším odebráním firemních přístupů.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-rezim-schvaleni",
@@ -433,7 +439,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "jednatel"
     ],
-    "text": "Ospalík prohlásil vnitřní předpis „Režim práce manažerů verze 1” za schválený mlčením a varoval, že jakmile ho vydá jako předpis, jde pro něj o „červenou čáru”. Jsem ale reagovala: navrhla jsem konkrétní řešení sledování pracovní doby — aplikaci Timely, kterou jsem si sama nastavila. Ospalík tento návrh neakceptoval."
+    "text": "Ospalík prohlásil vnitřní předpis „Režim práce manažerů verze 1” za schválený mlčením a varoval, že jakmile ho vydá jako předpis, jde pro něj o „červenou čáru”. Jsem ale reagovala: navrhla jsem konkrétní řešení sledování pracovní doby — aplikaci Timely, kterou jsem si sama nastavila. Ospalík tento návrh neakceptoval.",
+    "unavailableReason": "Uloženo pouze ve firemním e-mailu (PST archiv) — k originálu se bez přístupu na firemní profil nedostanu."
   },
   {
     "id": "d-rezim",
@@ -654,7 +661,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "Odoo"
     ],
-    "text": "Oficiální vyhodnocení roku 2025 připravené Karelem Ospalíkem pro poradu vedení TRAIVA s.r.o. (stav k 14. 1. 2026). Dokument hodnotí 5 strategických oblastí: (1) ERP Odoo — \"Splněno\": systém nasazen ve stanoveném termínu, avšak s \"významnými implementačními problémy způsobenými nevhodným výběrem dodavatele, nedostatečnou specifikací, změnou koncepce, nepřipraveným testováním a podceněním školení\"; (2) Software BOZP — \"Probíhá\": testovací verze hotovy, plné spuštění plánováno 1. 5. 2026; (3) E-shop portfolio (cíl 150 produktů) — \"Nesplněno\": přidáno pouze cca 15 produktů, hlavní důvod: \"vysoké pracovní zatížení při implementaci Odoo\"; (4) Marketingové nástroje e-shopu — \"Částečně\": implementován pouze přesný termín doručení, ostatní nástroje nebyly dodány kvůli \"neplnění závazků externího dodavatele Sniper\", který \"nedodal objednanou službu ani po opakovaných urgencích\"; (5) Aplikace cedulí vasecedule.cz — \"Téměř dokončeno\". Klíčový kontext: dokument přiznává, že nesplnění cílů e-shopu a marketingu bylo způsobeno Odoo implementací a nespolehlivým externím dodavatelem — nikoliv selháním marketing manažera. Zároveň Ospalík v e-mailu z 6. 5. 2026 (tj. 4 měsíce po tomto dokumentu) požadoval po Andree doložení \"marketingových akcí s měřitelným dopadem\", ačkoliv vlastní vyhodnocení roku přičítalo neúspěchy jiným příčinám."
+    "text": "Oficiální vyhodnocení roku 2025 připravené Karelem Ospalíkem pro poradu vedení TRAIVA s.r.o. (stav k 14. 1. 2026). Dokument hodnotí 5 strategických oblastí: (1) ERP Odoo — \"Splněno\": systém nasazen ve stanoveném termínu, avšak s \"významnými implementačními problémy způsobenými nevhodným výběrem dodavatele, nedostatečnou specifikací, změnou koncepce, nepřipraveným testováním a podceněním školení\"; (2) Software BOZP — \"Probíhá\": testovací verze hotovy, plné spuštění plánováno 1. 5. 2026; (3) E-shop portfolio (cíl 150 produktů) — \"Nesplněno\": přidáno pouze cca 15 produktů, hlavní důvod: \"vysoké pracovní zatížení při implementaci Odoo\"; (4) Marketingové nástroje e-shopu — \"Částečně\": implementován pouze přesný termín doručení, ostatní nástroje nebyly dodány kvůli \"neplnění závazků externího dodavatele Sniper\", který \"nedodal objednanou službu ani po opakovaných urgencích\"; (5) Aplikace cedulí vasecedule.cz — \"Téměř dokončeno\". Klíčový kontext: dokument přiznává, že nesplnění cílů e-shopu a marketingu bylo způsobeno Odoo implementací a nespolehlivým externím dodavatelem — nikoliv selháním marketing manažera. Zároveň Ospalík v e-mailu z 6. 5. 2026 (tj. 4 měsíce po tomto dokumentu) požadoval po Andree doložení \"marketingových akcí s měřitelným dopadem\", ačkoliv vlastní vyhodnocení roku přičítalo neúspěchy jiným příčinám.",
+    "unavailableReason": "Interní dokument veden na firemním serveru — bez přístupu na firemní profil se k originálu nedostanu."
   },
   {
     "id": "d-datovka-protest-potvrzeni",
@@ -665,7 +673,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "mzda"
     ],
-    "text": "Odeslaná PDZ, ID zprávy: 1734487765. Odesílatel: Andrea Matis (schránka 2n4vhud). Adresát: TRAIVA, s.r.o., Pohraniční 2911/13b, Vítkovice, 70300 Ostrava (ID schránky: gwn73br). K rukám: Ing. Karel Ospalík. Do vlastních rukou: Ano. Stav zprávy: Dodaná. Datum a čas: 14. 7. 2026 v 17:55:17. EV0 (podána): 14. 7. 2026 v 17:55:17. EV5 (dodána do schránky příjemce): 14. 7. 2026 v 17:55:17. Přílohy: Textová zpráva.PDF + Andrea_Matis_vyzva_k_oprave_mzdoveho_vymeru.pdf."
+    "text": "Odeslaná PDZ, ID zprávy: 1734487765. Odesílatel: Andrea Matis (schránka 2n4vhud). Adresát: TRAIVA, s.r.o., Pohraniční 2911/13b, Vítkovice, 70300 Ostrava (ID schránky: gwn73br). K rukám: Ing. Karel Ospalík. Do vlastních rukou: Ano. Stav zprávy: Dodaná. Datum a čas: 14. 7. 2026 v 17:55:17. EV0 (podána): 14. 7. 2026 v 17:55:17. EV5 (dodána do schránky příjemce): 14. 7. 2026 v 17:55:17. Přílohy: Textová zpráva.PDF + Andrea_Matis_vyzva_k_oprave_mzdoveho_vymeru.pdf.",
+    "unavailableReason": "Export ještě nemám nahraný na Drive — mám ho k dispozici jen v datové schránce, doplním."
   },
   {
     "id": "d-datovka-protest-text",
@@ -676,7 +685,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "mzda"
     ],
-    "text": "Průvodní text zprávy ID 1734487765: Dobrý den, v příloze zasílám formální protest proti nesprávné klasifikaci 20 pracovních dnů v červnu 2026 jako neomluvená absence a výzvu k opravě výplatní pásky za červen 2026 včetně doplacení dlužné náhrady mzdy dle § 208 zákoníku práce. Lhůta k plnění: 28. 7. 2026. S pozdravem, Ing. Andrea Matis."
+    "text": "Průvodní text zprávy ID 1734487765: Dobrý den, v příloze zasílám formální protest proti nesprávné klasifikaci 20 pracovních dnů v červnu 2026 jako neomluvená absence a výzvu k opravě výplatní pásky za červen 2026 včetně doplacení dlužné náhrady mzdy dle § 208 zákoníku práce. Lhůta k plnění: 28. 7. 2026. S pozdravem, Ing. Andrea Matis.",
+    "unavailableReason": "Export ještě nemám nahraný na Drive — mám ho k dispozici jen v datové schránce, doplním."
   },
   {
     "id": "d-datovka-protest-vyzva",
@@ -687,7 +697,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "mzda"
     ],
-    "text": "Příloha datové zprávy ID 1734487765. Soubor: Andrea_Matis_vyzva_k_oprave_mzdoveho_vymeru.pdf. Obsah: formální protest + výzva k opravě výplatní pásky za červen 2026. Odesílatel: Ing. Andrea Matis, Kostelní 607, 739 24 Krmelín. Adresát: TRAIVA, s.r.o., jednatel Ing. Karel Ospalík. Datum: 14. 7. 2026. Věc: protest proti klasifikaci 20 dnů jako neomluvená absence (správně: § 208 ZP — překážky na straně zaměstnavatele). Požadavky: (1) oprava výplatní pásky, (2) doplacení 65 898,80 Kč hrubého na účet 2298163003/0800, (3) doplacení pojistného ZP + ČSSZ. Prodlení od 11. 7. 2026, zákonný úrok § 1970 OZ. Deadline: 28. 7. 2026."
+    "text": "Příloha datové zprávy ID 1734487765. Soubor: Andrea_Matis_vyzva_k_oprave_mzdoveho_vymeru.pdf. Obsah: formální protest + výzva k opravě výplatní pásky za červen 2026. Odesílatel: Ing. Andrea Matis, Kostelní 607, 739 24 Krmelín. Adresát: TRAIVA, s.r.o., jednatel Ing. Karel Ospalík. Datum: 14. 7. 2026. Věc: protest proti klasifikaci 20 dnů jako neomluvená absence (správně: § 208 ZP — překážky na straně zaměstnavatele). Požadavky: (1) oprava výplatní pásky, (2) doplacení 65 898,80 Kč hrubého na účet 2298163003/0800, (3) doplacení pojistného ZP + ČSSZ. Prodlení od 11. 7. 2026, zákonný úrok § 1970 OZ. Deadline: 28. 7. 2026.",
+    "unavailableReason": "Export ještě nemám nahraný na Drive — mám ho k dispozici jen v datové schránce, doplním."
   },
   {
     "id": "d-email-karin-premus-30042026",
@@ -698,7 +709,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "obchodní"
     ],
-    "text": "E-mail, ve kterém Ing. Matis píše Jiřímu Premusovi: 'chtěla bych se s tebou sladit na dalším postupu u Karin'. Prokazuje: (1) Karin Švédová přijata jako zástup na expedici v období plánované PN, (2) výhledově měla nahradit Danu Rogalovou na prodejně bez navýšení stavu, (3) Ing. Ospalík dočasně zmrazil org. změny kvůli akvizici, (4) Ing. Matis připravila plán a koordinovala ho s vedením. Vyvrací tvrzení, že Karin byla přijata jako marketingová specialistka nebo bez vědomí vedení. Zdroj: Outlook (TRAIVA), přístup vyžaduje přihlášení."
+    "text": "E-mail, ve kterém Ing. Matis píše Jiřímu Premusovi: 'chtěla bych se s tebou sladit na dalším postupu u Karin'. Prokazuje: (1) Karin Švédová přijata jako zástup na expedici v období plánované PN, (2) výhledově měla nahradit Danu Rogalovou na prodejně bez navýšení stavu, (3) Ing. Ospalík dočasně zmrazil org. změny kvůli akvizici, (4) Ing. Matis připravila plán a koordinovala ho s vedením. Vyvrací tvrzení, že Karin byla přijata jako marketingová specialistka nebo bez vědomí vedení. Zdroj: Outlook (TRAIVA), přístup vyžaduje přihlášení.",
+    "unavailableReason": "Uloženo jen ve firemním Outlooku (TRAIVA) — bez přístupu na firemní profil se k originálu nedostanu."
   },
   {
     "id": "d-vysledovka-traiva-2023",
@@ -720,7 +732,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "obchodní"
     ],
-    "text": "Existence Trello boardu 'Marketing produktů Traiva' (starred, autor Ing. Matis, aktuální k 5. 11. 2025) prokazuje, že strategický marketingový plán pro rok 2025 existoval a byl aktivně udržován. Vyvrací případná tvrzení, že marketingové plánování nebo strategické směřování chybělo."
+    "text": "Existence Trello boardu 'Marketing produktů Traiva' (starred, autor Ing. Matis, aktuální k 5. 11. 2025) prokazuje, že strategický marketingový plán pro rok 2025 existoval a byl aktivně udržován. Vyvrací případná tvrzení, že marketingové plánování nebo strategické směřování chybělo.",
+    "unavailableReason": "Trello board vedený pod firemním účtem TRAIVA — bez přístupu na firemní profil se k obsahu nedostanu, mám jen meta-data."
   },
   {
     "id": "d-trello-marketingove-strategie-am",
@@ -731,7 +744,8 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "obchodní"
     ],
-    "text": "Trello board vedený Ing. Matis, naposledy aktualizován 17. 3. 2026 — v době, kdy pracovní spor byl již v běhu. Obsahuje strategické plány pro marketing a věrnostní program (loajalitní program, B2B akvizice). Dokládá, že Ing. Matis soustavně pracovala na strategickém rozvoji firmy i v kritickém období jaro 2026."
+    "text": "Trello board vedený Ing. Matis, naposledy aktualizován 17. 3. 2026 — v době, kdy pracovní spor byl již v běhu. Obsahuje strategické plány pro marketing a věrnostní program (loajalitní program, B2B akvizice). Dokládá, že Ing. Matis soustavně pracovala na strategickém rozvoji firmy i v kritickém období jaro 2026.",
+    "unavailableReason": "Trello board vedený pod firemním účtem TRAIVA — bez přístupu na firemní profil se k obsahu nedostanu, mám jen meta-data."
   }
 
 ];
