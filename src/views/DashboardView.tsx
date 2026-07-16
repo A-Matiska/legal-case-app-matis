@@ -410,6 +410,32 @@ export function DashboardView() {
               průběhem prodeje firmy.
             </p>
           </div>
+
+          <div className="shrnuti-sub">
+            <div className="shrnuti-sub-title">
+              e) Okamžité zrušení pracovního poměru (15. 7. 2026)
+            </div>
+            <p>
+              Zaměstnavatel mi datovou schránkou, e-mailem a poštou doručil{" "}
+              <strong>okamžité zrušení pracovního poměru dle § 55 odst. 1
+              písm. b) zákoníku práce</strong>. Uvádí 6 důvodů — neoprávněnou
+              změnu administrátorských práv T-Mobile, otevírání cizích
+              e-mailových schránek, přeposílání interních dat Karlu Neffemu,
+              zaslání finančních výkazů na e-mail pavelcermak@kb.cz,
+              neomluvenou absenci a smazání dat ve schránce
+              j.premus@traiva.cz — a jako dokreslující kontext prodej
+              vozidla, nájem BMW a nákupy bez dokladů z doby mého
+              jednatelství. Zmiňuje i probíhající posouzení trestní
+              odpovědnosti advokátní kanceláří.
+            </p>
+            <p>
+              Řada uváděných jednání spadá do doby, kdy jsem byla ještě
+              jednatelkou (do 12. 5. 2026) — u přístupů do e-mailů jde
+              dokonce o data z <strong>27. 4. a 20. 4. 2026</strong>, tedy
+              2–3 týdny před odvoláním. Podrobný přehled bodů a poznámky
+              k obhajobě viz sekce Poznámky.
+            </p>
+          </div>
         </AccordionPanel>
 
       </div>

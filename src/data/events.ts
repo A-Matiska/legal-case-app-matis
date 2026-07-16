@@ -829,6 +829,17 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "personRefs": ["Andrea Matis", "Karel Ospalík"],
     "evidenceRefs": []
   }
-
+,
+  {
+    "id": "ev-2026-okamzite-zruseni",
+    "date": "15. 7. 2026",
+    "year": "2026",
+    "title": "Zaměstnavatel doručil okamžité zrušení pracovního poměru (§ 55 odst. 1 písm. b) ZP)",
+    "text": "Dne 15. 7. 2026 mi zaměstnavatel (zastoupen Ing. Karlem Ospalíkem) doručil datovou schránkou, e-mailem a poštou Okamžité zrušení pracovního poměru dle § 55 odst. 1 písm. b) zákoníku práce. Uvádí šest důvodů: (1) 15. 5. 2026 — údajná neoprávněná změna administrátorského oprávnění k firemní síti T-Mobile po mém odvolání z jednatelství; (2) 15. 6. 2026 nahlášené, údajně svévolné otevírání e-mailových schránek zaměstnanců a jednatele — příloha č. 1 uvádí konkrétní přístupy z 27. 4. a 20. 4. 2026; (3) přeposlání interních dat (tržby, marže, výroba) Karlu Neffemu 8. 4. a 2. 3. 2026; (4) zaslání finančních výkazů firmy na e-mail pavelcermak@kb.cz 19. 3. 2026 — kvalifikováno zaměstnavatelem jako vyzrazení obchodního tajemství; (5) neomluvená absence cca 28 pracovních dnů v červnu–červenci 2026 — zaměstnavatel odmítl můj protest z 14. 7. 2026 s odkazem na záložní e-mail amatis.traiva@gmail.com; (6) 13. 7. 2026 nahlášené údajné smazání dat v e-mailové schránce j.premus@traiva.cz dne 21. 4. 2026 — zaměstnavatel zmiňuje možné naplnění § 230 trestního zákoníku. Jako dokreslující kontext dále uvádí prodej vozidla (Under8 s.r.o., 330 000 Kč), nájem BMW X1 a 10 nákupů bez dokladů z doby mého jednatelství a zmiňuje probíhající posouzení trestní odpovědnosti advokátní kanceláří zaměstnavatele.",
+    "legal": "Klíčové k ověření s advokátem: většina jednání v bodech 1–4 i v kontextové části se odehrála v době, kdy jsem byla jednatelkou (do 12. 5. 2026), nebo dokonce před odvoláním — bod 2 uvádí přístupy z 27. 4. a 20. 4. 2026, tedy 2–3 týdny PŘED odvoláním, což oslabuje tvrzení o jednání 'bez oprávnění po odvolání'. Bod 5 navazuje na už dokumentovaný spor o klasifikaci § 208 ZP (viz Protest 14. 7. 2026) — nově se objevuje protiargument o záložním e-mailu amatis.traiva@gmail.com, který je třeba prověřit. Bod 6 je potenciálně nejzávažnější kvůli zmínce trestní odpovědnosti — vyžaduje okamžitou konzultaci. Zaměstnavatel tvrdí, že PP končí okamžikem doručení — je třeba posoudit lhůtu a možnost žaloby na neplatnost okamžitého zrušení (§ 72 ZP, obvykle 2 měsíce od skončení PP) a nároky, které mezitím vznikly (přesčasy, odměna jednatelky, mzda za červen).",
+    "tags": ["pracovněprávní", "jednatel", "obchodní"],
+    "personRefs": ["Andrea Matis", "Karel Ospalík", "Karel Neffe"],
+    "evidenceRefs": ["Okamžité zrušení pracovního poměru zaměstnavatelem 15. 7. 2026 + příloha č. 1"]
+  }
 
 ];

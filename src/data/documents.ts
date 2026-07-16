@@ -747,5 +747,19 @@ export const documents: CaseDocument[] = [
     "text": "Trello board vedený Ing. Matis, naposledy aktualizován 17. 3. 2026 — v době, kdy pracovní spor byl již v běhu. Obsahuje strategické plány pro marketing a věrnostní program (loajalitní program, B2B akvizice). Dokládá, že Ing. Matis soustavně pracovala na strategickém rozvoji firmy i v kritickém období jaro 2026.",
     "unavailableReason": "Trello board vedený pod firemním účtem TRAIVA — bez přístupu na firemní profil se k obsahu nedostanu, mám jen meta-data."
   }
+,
+  {
+    "id": "d-okamzite-zruseni",
+    "title": "Okamžité zrušení pracovního poměru zaměstnavatelem (15. 7. 2026) + příloha č. 1",
+    "type": "podepsaný dokument · doručeno datovou schránkou, e-mailem a poštou",
+    "date": "15. 7. 2026",
+    "tags": [
+      "pracovněprávní",
+      "jednatel",
+      "obchodní"
+    ],
+    "text": "Okamžité zrušení pracovního poměru dle § 55 odst. 1 písm. b) zákoníku práce, 13 stran vč. přílohy č. 1 (výpis přístupů do e-mailových schránek). Zaměstnavatel uvádí 6 hlavních důvodů (změna admin. práv T-Mobile, otevírání cizích e-mailových schránek, přeposílání interních dat Neffemu, zaslání finančních výkazů na pavelcermak@kb.cz, neomluvená absence, smazání dat ve schránce j.premus@traiva.cz) a dokreslující kontext z doby jednatelství (prodej vozidla, nájem BMW, nákupy bez dokladů). Zmiňuje probíhající posouzení trestní odpovědnosti advokátní kanceláří zaměstnavatele.",
+    "unavailableReason": "Mám lokálně v PDF, ještě nenahráno na Google Drive — doplním odkaz."
+  }
 
 ];
