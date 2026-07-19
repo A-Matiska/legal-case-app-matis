@@ -943,5 +943,17 @@ export const documents: CaseDocument[] = [
     ],
     "text": "Dvě interní tabulky výpočtu odměn oddělení prodeje (Prémie nové 2024.xlsx: XI/2023–VIII/2025; Prémie 2026.xlsx: I–II/2026). Metodika: 15–25 % z hrubého zisku z prodeje výrobků, rozdělováno mezi pracovníky měsíčně. KLÍČOVÉ: (1) SOUVISLÁ ŘADA — Andrea pobírala odměny nepřetržitě 28 měsíců (XI/2023–II/2026), v průměru ~35 tis. Kč/měsíc (rozsah 18–57 tis.); (2) SHODA S ÚSPORAMI — roční suma ~400 tis. Kč odpovídá položce „prémie 402 397 Kč“ v tabulce Budoucí úspory od 07/2026 (d-uspory-07-2026), kterou Ospalík označil za náklad k eliminaci; (3) ZLOM — výplatní páska květen 2026 uvádí prémii 0 Kč = účelové odstřižení zavedeného nároku v době odvolání/OZP; (4) OPCE / PODÍL — u Andrey se každý měsíc opakuje poznámka „120 tis./rok, 4 roky, celkem 480 tis.“ + měsíční odpočet „opce −15 000“ = doklad ujednání o obchodním podílu spláceném z odměn (podpora d-valuace, d-sliby); (5) TABULKY, O KTERÉ ŽÁDALA — jsou to přesně podklady, jejichž doložení Andrea požadovala v Žádosti o obnovení přístupů 11. 6. 2026 (bod 4). Originály xlsx v držení Andrey.",
     "file": "https://docs.google.com/document/d/1RDZocU8zdFR6poIl5rNgzeGnik9IPIdB7GsLmx-uQws/view"
+  },
+  {
+    "id": "d-vyplatni-paska-cerven-2026",
+    "title": "Výplatní páska červen 2026 — odvody jen z dovolené, 20 dní neomluvená absence",
+    "type": "mzdový doklad · TRAIVA s.r.o. · přímý důkaz podhodnocení odvodů + vazba na § 208",
+    "date": "červen 2026 (vystaveno 10. 7. 2026)",
+    "tags": [
+      "pracovněprávní",
+      "jednatel"
+    ],
+    "text": "Podrobná výplatní páska za červen 2026 (zam14 Matis Andrea, HPP, ČPZP; TRAIVA s.r.o.). ZNIČUJÍCÍ ČÍSLA: tarif měsíční 63 000 Kč, průměrný výdělek 457,63 Kč/h, fond 176 h (22 dní) — ale hrubý příjem POUZE 7 322 Kč (náhrada za dovolenou ~16 h), 20 dní (160 h) vedeno jako NEOMLUVENÁ ABSENCE bez nároku. KLÍČOVÉ K ODVODŮM: (1) sociální pojištění odvedeno jen z vyměřovacího základu 7 322 Kč — tj. jen z dovolené; za 20 dní absence je základ NULA; (2) zdravotní pojištění na základu 22 400 Kč = zákonné minimum (minimální mzda), povinný doplatek, nikoli vstřícnost. DŮSLEDKY: (a) § 208 ZP — správně měla být náhrada 160 h × 457,63 = 73 220,80 Kč hrubého s plnými odvody (zaměstnavatel odebral přístupy 10./11. 6.); (b) snížení nemocenské k DPN vzniklé 15. 7. 2026 (nízký vyměřovací základ); (c) minimální započtení pro důchod. K OVĚŘENÍ: zda i tyto snížené částky byly reálně odvedeny na ČSSZ/ČPZP (přehled od pojišťovny + ePortál ČSSZ); při neodvedení sražených částek § 241 TZ. Originál PDF v držení Andrey.",
+    "file": "https://docs.google.com/document/d/1tSShCy-PrFrGEpekxHoafnkhE5S1XbaCjgwDDo9jW94/view"
   }
 ];
