@@ -869,5 +869,17 @@ export const documents: CaseDocument[] = [
     ],
     "text": "Ospalík (17. 4. 2026) kritizuje absenci seznamu pohledávek — ale email adresuje TŘEM lidem: Maralíkovi (Odoo správce), Orelové (účetní) a Matis. Tvrdí, že 'ani za celý rok ani za 4 týdny není k dispozici seznam pohledávek', přikládá spárované faktury. KLÍČOVÉ OBRANNÉ BODY: (1) Výtka míří na celý tým, ne výlučně na Andreu; (2) Příčina: chybné primární nastavení Odoo systému implementačním partnerem — Andrea to aktivně řeší s Origamis a Evou Orel (viz email z 8. 4. 2026); (3) Ospalík sám přiznává znalost alternativy: 'Denní spárování mimo Odoo trvá několik minut' — ale nikdy to nikomu konkrétně nenařídil; (4) Email odeslán 9 dní před OZP — ukazuje, že Ospalík hledal záminky. KONTEXT: Párování pohledávek je systémový problém Odoo, ne osobní selhání Andrey.",
     "file": "https://docs.google.com/document/d/13v0ZNyX2uil9L9qXY_eKLjTqYEDiyltbHuZDSuHxyIY/view"
+  },
+  {
+    "id": "d-strategie-traiva-2025",
+    "title": "Strategie firmy TRAIVA 2025 a hlavní úkoly — Ospalík (interní dokument)",
+    "type": "strategický dokument · zadání úkolů manažerům · systém bonusů · autor Ospalík",
+    "date": "2025 (před 20. 4. 2025)",
+    "tags": [
+      "pracovněprávní",
+      "obchodní"
+    ],
+    "text": "Ospalíkův strategický dokument pro rok 2025 přidělující konkrétní úkoly jednotlivým manažerům. Sekce B) 'Ředitel marketingu' přímo vyjmenovává Andreiny úkoly: marketingový plán 2025, kampaně, Manutan integrace, strom kategorií e-shopu, silikagel marketing, mezinárodní expanze (Foggystop, německý trh, Amazon/Kaufland), 100 tabulek v němčině, AI pro design. Sekce 3 zavádí podmíněný systém odměn: pokles zisku = 2x strmější pokles odměn. PRÁVNÍ RELEVANCE KLÍČOVÁ: (1) Důkaz, že Andrea DOSTALA konkrétní úkoly jako Ředitel marketingu = vykonávala svou roli; (2) Systém bonusů je přesně ten, na který Ospalík narážel v emailu z 11.-12. 3. 2026 o 'bonusu za režim' — prokazuje systémový nátlak na odměny; (3) Smart First Aid byl přidělen Technickému řediteli, ale Andrea ho sama dokončila (viz Strategický plán 2026) — práce nad rámec; (4) 'Každá marketingová akce musí být vyhodnocena' — přísná podmínka, která omezovala Andrein prostor bez zpětné vazby. Dokument existoval před OZP minimálně 12 měsíců.",
+    "file": "https://docs.google.com/document/d/1kZ9xIRMp7FL00vEwWeAFwJvyygtYXrXfTstaEt0fVwo/view"
   }
 ];
