@@ -759,7 +759,7 @@ export const documents: CaseDocument[] = [
       "obchodní"
     ],
     "text": "Okamžité zrušení pracovního poměru dle § 55 odst. 1 písm. b) zákoníku práce, 13 stran vč. přílohy č. 1 (výpis přístupů do e-mailových schránek). Zaměstnavatel uvádí 6 hlavních důvodů (změna admin. práv T-Mobile, otevírání cizích e-mailových schránek, přeposílání interních dat Neffemu, zaslání finančních výkazů na pavelcermak@kb.cz, neomluvená absence, smazání dat ve schránce j.premus@traiva.cz) a dokreslující kontext z doby jednatelství (prodej vozidla, nájem BMW, nákupy bez dokladů). Zmiňuje probíhající posouzení trestní odpovědnosti advokátní kanceláří zaměstnavatele.",
-    "unavailableReason": "Mám lokálně v PDF, ještě nenahráno na Google Drive — doplním odkaz."
+    "file": "https://drive.google.com/file/d/14pC6FzC7tyYCdCax09lKNN4QnI6t3Rf3/view?usp=drivesdk"
   }
 
 
