@@ -881,5 +881,17 @@ export const documents: CaseDocument[] = [
     ],
     "text": "Ospalíkův strategický dokument pro rok 2025 přidělující konkrétní úkoly jednotlivým manažerům. Sekce B) 'Ředitel marketingu' přímo vyjmenovává Andreiny úkoly: marketingový plán 2025, kampaně, Manutan integrace, strom kategorií e-shopu, silikagel marketing, mezinárodní expanze (Foggystop, německý trh, Amazon/Kaufland), 100 tabulek v němčině, AI pro design. Sekce 3 zavádí podmíněný systém odměn: pokles zisku = 2x strmější pokles odměn. PRÁVNÍ RELEVANCE KLÍČOVÁ: (1) Důkaz, že Andrea DOSTALA konkrétní úkoly jako Ředitel marketingu = vykonávala svou roli; (2) Systém bonusů je přesně ten, na který Ospalík narážel v emailu z 11.-12. 3. 2026 o 'bonusu za režim' — prokazuje systémový nátlak na odměny; (3) Smart First Aid byl přidělen Technickému řediteli, ale Andrea ho sama dokončila (viz Strategický plán 2026) — práce nad rámec; (4) 'Každá marketingová akce musí být vyhodnocena' — přísná podmínka, která omezovala Andrein prostor bez zpětné vazby. Dokument existoval před OZP minimálně 12 měsíců.",
     "file": "https://docs.google.com/document/d/1kZ9xIRMp7FL00vEwWeAFwJvyygtYXrXfTstaEt0fVwo/view"
+  },
+  {
+    "id": "d-smlouva-touchstore-2024",
+    "title": "Smlouva o licenci TouchStore č. 220/2024 — Walk Solutions × TRAIVA (podpis Andrea Matis)",
+    "type": "obchodní smlouva · expediční systém · podepsáno Andreou před jmenováním jednatelkou",
+    "date": "4. 7. 2024",
+    "tags": [
+      "obchodní",
+      "pracovněprávní"
+    ],
+    "text": "Smlouva o poskytnutí licence a souvisejících služeb č. 220/2024. Zákazník: TRAIVA s.r.o. Poskytovatel: Walk Solutions s.r.o. (Daniel CHOMO). Předmět: expediční systém TouchStore s Odoo konektorem — 10 modulů (GEIS, PPL, Zásilkovna, GLS, DELIVERY, PERSONAL, hromadný picking list, čtečka EAN, podpisy skladníka) + hardware (AIO PC Shuttle P92U, termotiskárna Zebra, čtečky, mobilní terminál Chainway C6000/2D). Cena: ~6 420 Kč/měs. bez DPH + ~10 000 Kč jednorázově. V šabloně smlouvy je vytištěno jméno Ing. KAREL OSPALÍK, jednatel — ale FYZICKÝ PODPIS NA SMLOUVĚ PATŘÍ ANDREE MATIS. KLÍČOVÁ PRÁVNÍ RELEVANCE: (1) FAKTICKÁ JEDNATELKA — Andrea podpisem závazné obchodní smlouvy (finanční závazek 77 040 Kč/rok) jednala jako právní zástupkyně TRAIVA PŘED svým formálním jmenováním jednatelem → důkaz de facto jednatelského postavení; (2) OSPALÍK VĚDĚL A SOUHLASIL — přenechal Andree podepisování obchodních smluv s třetími stranami; (3) PROTIARGUMENT K OZP — zaměstnanec, který 'závažně porušuje povinnosti', nepodepisuje jménem firmy závazné smlouvy; (4) ROZSAH ODPOVĚDNOSTI — TouchStore je klíčový provozní systém celé expedice TRAIVA → Andrea zodpovídala za strategická technologická rozhodnutí; (5) VZÁJEMNÝ KONTEXT — smlouva je o Odoo konektoru, tj. propojení TouchStore s Odoo je Andrein projekt od podpisu.",
+    "file": "https://docs.google.com/document/d/1NQmYqMBdXgqV1zP02Kl3FCmtLkKVW_OhKBPHum1o1TQ/view"
   }
 ];
