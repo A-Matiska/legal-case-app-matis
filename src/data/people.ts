@@ -108,4 +108,16 @@ export const people: Person[] = [
       "pracovněprávní"
     ]
   }
+
+,
+  {
+    "id": "p-karin-svedova",
+    "name": "Karin Švédová",
+    "role": "asistentka expedice · nezávislá svědkyně OIP 17. 7. 2026 (SÚIP ID f83b0ad4) — potvrzuje pomluvu 100 000 Kč a zákaz kontaktu s Andreou",
+    "documents": 2,
+    "events": 2,
+    "claims": 0,
+    "tags": ["pracovněprávní"]
+  }
+
 ];

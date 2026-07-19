@@ -762,4 +762,42 @@ export const documents: CaseDocument[] = [
     "unavailableReason": "Mám lokálně v PDF, ještě nenahráno na Google Drive — doplním odkaz."
   }
 
+
+,
+  {
+    "id": "d-karin-vytka",
+    "title": "Výtka Karin Švédové za použití mobilu (datum 1. 6. 2026, doručeno 10. 6. 2026)",
+    "type": "písemná výtka TRAIVA s.r.o. · v den veřejné difamace Andreou · formálně vadná",
+    "date": "10. 6. 2026",
+    "tags": [
+      "pracovněprávní"
+    ],
+    "text": "Výtka nese datum 1. 6. 2026, ale Karin Švédová ji obdržela až 10. 6. 2026 — v den, kdy Ospalík (1) veřejně lhal zaměstnancům o krádeži 100 000 Kč od Andreou, (2) nutil Karin podepsat dohodu o rozvázání bez odstupného a (3) ji přeřadil na uklízečku. Výtka odkazuje v záhlaví na § 52 písm. g) ZP (výpovědní důvod zaměstnavatele) místo správného § 46 ZP (základ pro výtku) — formálně vadná. Důvod: použití soukromého telefonu 1. 6. 2026. Karin odmítla podepsat; Ospalík ji verbálně napadl ('blbá', 'hloupá'), poté přivolal Nikol Kostkovou a Šárku Mullerovou jako svědkyně předání. Chronologie prokazuje vzorec: výtka retroaktivně datovaná a předaná až v den eskalace po odmítnutí dohody o rozvázání — stejný postup jako vůči Andree (retroaktivní hledání důvodů po datových výzvách)."
+  }
+,
+  {
+    "id": "d-karin-oip",
+    "title": "Podnět Karin Švédové k OIP — nezávislá korobrace výpovědí z 10. 6. 2026 (SÚIP, 17. 7. 2026)",
+    "type": "podnět k inspekci práce · SÚIP Ostrava · ID f83b0ad4 · potvrzení 17. 7. 2026",
+    "date": "17. 7. 2026",
+    "tags": [
+      "pracovněprávní",
+      "OIP"
+    ],
+    "text": "Karin Švédová (asistentka expedice, přijata Andreou) podala 17. 7. 2026 podnět k OIP pro Moravskoslezský kraj — dva dny poté, co Traiva doručila Andree OZP. Podnět z NEZÁVISLÉHO zdroje potvrzuje: (1) Na ranní poradě 10. 6. 2026 v 7:30 Ospalík před VŠEMI zaměstnanci prohlásil, že 'přímá nadřízená Ing. Andrea Matis neoprávněně vybrala z firemního účtu 100 000 Kč' a zakázal se zaměstnancům kontaktovat, řídit se jejími pokyny nebo ji vpustit do firmy. (2) Karin Ospalík nutil podepsat dohodu o rozvázání bez odstupného k 11. 6. 2026 — bezprostředně odmítnutí vedlo k přeřazení na uklízečku. (3) Za červen 2026 Karin záměrně nevyplatil odměnu z DPP — potvrzeno mzdovou účetní Kateřinou Hájkovou. Karin označuje Andreu výslovně jako svoji 'přímou nadřízenou' — potvrzuje manažerskou roli AM ve firmě. Podání potvrzeno SÚIP ID f83b0ad4-7041-4a79-924a-643cd19a6948, datum 17. 7. 2026. Svědkyně jmenovány v podnětu: Natalie Baloghová, Nikol Kostková, Šárka Mullerová (porada 10. 6.), Kateřina Hájková (mzdová účetní)."
+  }
+,
+  {
+    "id": "d-podklad-advokat",
+    "title": "Podklad pro advokáta: Analýza OZP ze dne 15. 7. 2026 — Matis vs. TRAIVA s.r.o.",
+    "type": "právní analýza · připraveno pro konzultaci · lhůta § 72 ZP: 15. 9. 2026",
+    "date": "19. 7. 2026",
+    "tags": [
+      "pracovněprávní",
+      "jednatel",
+      "obchodní"
+    ],
+    "text": "VĚC: TRAIVA s.r.o. (IČO 25380141) vs. Ing. Andrea Matis | OZP doručeno 15. 7. 2026 | Lhůta § 72 ZP: 15. 9. 2026\n\n— OKAMŽITÉ ÚKONY (PŘED 15. 9. 2026) —\n1. Odeslat prohlášení 'trvám na zaměstnávání' dle § 69 ZP — URGENTNÍ (kondicionuje nárok na náhradu mzdy po dobu sporu)\n2. Podat žalobu na neplatnost OZP u soudu do 15. 9. 2026 (§ 72 ZP) — prekluzivní lhůta, zmeškání = zánik práva\n\n— 6 DŮVODŮ OZP — OBRANA —\n\nBOD 1 (T-Mobile GPS): Zaměstnavatel tvrdí neoprávněnou změnu admin. práv T-Mobile dne 12. 5. 2026. OBRANA: (a) k 12. 5. 2026 Andrea stále zapsaná jako jednatelka v rejstříku → ověřit justice.cz; (b) OZP uvádí datum 15. 5., nikoliv 12. 5. — vnitřní rozpor; (c) GPS aktivoval Ospalík bez souhlasu zaměstnance (§ 316 odst. 2 ZP) — Andrea tuto službu oprávněně zrušila; (d) Ospalík v hovoru 13. 5. sám potvrdil, že GPS aktivoval on. SÍLA: střední → slabý.\n\nBOD 2 (přístup k e-mailům): Zaměstnavatel tvrdí neoprávněný přístup do schránek zaměstnanců (příloha č. 1 — logy 20.–30. 4. 2026). OBRANA: (a) v době přístupu Andrea jednatelka (odvolání 12. 5.) → přístup v rámci oprávnění; (b) přístup náhodný při testování Microsoft AI agentů (Insider program); (c) kolega na chybu ihned upozornil a Andrea schránky okamžitě odebrala → náprava bez prodlení; (d) VŠECHNY logy v příloze jsou z 20.–30. 4. — 2 měsíce před OZP → § 58 odst. 1 ZP: subjektivní lhůta 2 měsíce od okamžiku vědomosti zaměstnavatele — klíčové je KDY se Ospalík dozvěděl; (e) Maralík (shromažďovatel důkazů) sám figuruje v logu + používal nestandardní AI-asistované metody sběru. KLÍČOVÝ SVĚDEK: kolega, jehož schránka byla omylem otevřena — datum incidentu lze ověřit z Teams offline cache. SÍLA: silný → slabý.\n\nBOD 3 (info Neffemu): Zaměstnavatel tvrdí přeposílání interních informací potenciálnímu kupci Neffemu. OBRANA: (a) Ospalík o vztahu Andrea–Neffe věděl a sám ji telefonicky konzultoval o Neffových motivech; (b) Andrea si SAMA nechala znění e-mailu odsouhlasit Ospalíkem, aby nevzniklo podezření; (c) žádný písemný zákaz předávání neexistuje (OZP by ho citovalo); (d) Neffe = potenciální nabyvatel → komunikace v zájmu firmy. SÍLA: střední.\n\nBOD 4 (finanční výkazy na pavelcermak@kb.cz): Zaměstnavatel tvrdí neoprávněné zaslání výkazů. OBRANA: (a) Pavel Čermák z KB = akvizičním bankéř Neffova → zaslání v rámci přípravy DD na Ospalíkův pokyn (12. 3. 2026); (b) e-mail s odsouhlasením Ospalíkem; (c) dataroomu koordinovala Andrea sama. SÍLA: silný → střední.\n\nBOD 5 (neomluvená absence červen 2026): Zaměstnavatel tvrdí 20 dní neomluvené absence. OBRANA: (a) od 11. 6. veškeré přístupy zablokovány zaměstnavatelem; (b) zákaz kontaktu ostatních zaměstnanců s Andreou pod hrozbou výpovědi; (c) Andrea zaslala 3 výzvy datovou schránkou; (d) § 208 ZP = překážka na straně zaměstnavatele → nárok na náhradu mzdy, nikoliv neomluvená absence; (e) Ospalík věděl o záložním Gmailu (zakázal komunikaci 8. 5.) a na firemní e-mail Andree NIKDY sám nepsal; (f) klasifikace napadena protestem + výzvou k opravě (datovka 14. 7. 2026). SÍLA: střední → velmi slabý.\n\nBOD 6 (smazání dat v j.premus@traiva.cz): OBRANA: (a) přístup v rámci testování AI agentů (duben 2026) — přístupy ihned odebrány po upozornění kolegy; (b) 'smazání dat' pravděpodobně = automaticky rozeslané e-maily z Premusovy schránky + úklid AI agenta, nikoliv záměrné ničení; (c) příloha č. 1 OZP neobsahuje logy o mazání — jen o přístupu; (d) Microsoft 365 audit log zachovává záznamy o smazání a lze si je vyžádat. SÍLA: nejsilnější → střední-slabý.\n\n— RETALIAČNÍ VZOREC —\nOspalík retroaktivně hledal důvody PO datových výzvách: (1) 11. 6. — první datovka; (2) Maralík dostává instrukci prohledat celý počítač; (3) zaměstnankyně přeřazena za 'donášení'; (4) 14. 7. — třetí datovka; (5) 15. 7. — OZP doručeno. Dubnové přístupy 'objeveny' v červnu–červenci = 2–3 měsíce po incidentu → problém § 58 odst. 1 ZP.\n\n— KLÍČOVÍ SVĚDCI —\n1. Karin Švédová — potvrzuje pomluvu 100 000 Kč, zákaz kontaktu, nátlak; OIP podnět ID f83b0ad4 podán 17. 7. 2026 = OFICIÁLNÍ DOKUMENT\n2. Kolega (AI e-mail incident) — svědek okamžité nápravy; klíčový pro § 58 ZP lhůtu; totožnost: Teams cache v telefonu\n3. Natalie Baloghová, Nikol Kostková, Šárka Mullerová — svědkyně porad 10. 6. 2026\n4. Kateřina Hájková (mzdová účetní) — potvrdila pokyn nevyplatit DPP Karin\n\n— DŮKAZY K ZAJIŠTĚNÍ —\nPŘES ADVOKÁTA: (a) Microsoft 365 audit log — nezávislé ověření přílohy č. 1 a logů o mazání; návrh dle § 78 OSŘ na zajištění; (b) justice.cz — výpis funkce jednatelky ke dni 12. 5. 2026.\nU ANDREOU: (a) SMS T-Mobile (datum GPS aktivace/deaktivace); (b) záložní Gmail — prázdná schránka = Ospalík nikdy nepsal; (c) WhatsApp export — odsouhlasení e-mailu Neffemu + konzultace pohnutek; (d) 3 potvrzení datové schránky; (e) Teams cache v telefonu.\n\n— NÁROKY (ORIENTAČNĚ) —\n• Náhrada mzdy § 208 ZP (červen 2026): 65 899 Kč hrubého + pojistné\n• Nevyplacené DPP odměny (TRAIVA + Safety): dle výplatních pásek\n• Prémie Odoo 200 000 Kč: závisí na posouzení podmínek splnění\n• Pomluva (§ 82 OZ + § 184 TZ): posoudit trestní oznámení\n• Hotovost 237 593 Kč ze SsangYongu: projednat vypořádání před žalobou\n\n— LHŮTY —\n• § 69 ZP trvání na zaměstnávání: ODESLAT CO NEJDŘÍVE\n• § 72 ZP žaloba neplatnosti: 15. 9. 2026 (prekluzivní)\n• § 208 ZP náhrada mzdy: 3 roky od splatnosti\n• Trestní oznámení: bez prekluzivní lhůty (promlčení 5 let)"
+  }
+
 ];

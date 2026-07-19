@@ -854,4 +854,70 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
     "evidenceRefs": ["Trello board 'Marketing produktů Traiva'", "Trello board 'AM – Marketingové strategie a věrnostní program'"]
   }
 
+
+,
+  {
+    "id": "ev-2026-karin-koerce",
+    "date": "10. 6. 2026",
+    "year": "2026",
+    "title": "Karin Švédová: nátlak na odchod, přeřazení na uklízečku, verbální napadení — souběžně s poradou",
+    "text": "Ve stejný den, kdy Ospalík veřejně difamoval Andreu (7:30), se odehrávaly i tyto události potvrzené podnětem k OIP Karin Švédové (podán 17. 7. 2026): 9:00 — Karin (asistentka expedice, přijata Andreou) povolána do zasedačky za přítomnosti Natalie Baloghové a Nikol Kostkové; Ospalík ji vyzval k podpisu dohody o rozvázání bez odstupného s účinností od 11. 6. 2026, bez udání důvodu. 13:00 — po odmítnutí jí oznámil přeřazení na pozici uklízečky (třetí přeřazení od října 2025); prováděl BOZP školení pro třídění odpadu v kontejnerech. 13:30 — předložil výtku datovanou retroaktivně k 1. 6. 2026; při odmítnutí podpisu křičel a opakovaně ji slovně napadl ('blbá', 'hloupá'); teprve po uklidnění přivolal kolegyně Nikol Kostkovou a Šárku Mullerovou jako svědkyně předání. 11. 6. 2026 — Karin nastoupila na pracovní neschopnost pro psychické obtíže. Za červen 2026 Ospalík nařídil mzdové účetní Kateřině Hájkové nevyplatit Karin odměnu z DPP.",
+    "legal": "Karin Švédová je nezávislý svědek, jehož OIP podnět (ID f83b0ad4, 17. 7. 2026) z ÚŘEDNÍ evidence potvrzuje: (a) veřejnou pomluvu Andreou s 100 000 Kč na ranní poradě; (b) plošný zákaz kontaktu zaměstnanců s Andreou; (c) Andreinu roli 'přímé nadřízené' (= manažerské postavení). Vzorec retroaktivní výtky vůči Karin (předána v den eskalace, nikoliv v datum na dokumentu) je totožný s přístupem Ospalíka vůči Andree. Svědkyně jmenovány v OIP podnětu: Natalie Baloghová, Nikol Kostková, Šárka Mullerová.",
+    "tags": [
+      "pracovněprávní"
+    ],
+    "personRefs": [
+      "Karel Ospalík",
+      "Karin Švédová"
+    ],
+    "evidenceRefs": [
+      "Podnět OIP Karin Švédové 17. 7. 2026",
+      "Výtka Karin Švédové 10. 6. 2026"
+    ]
+  }
+,
+  {
+    "id": "ev-2026-ozp",
+    "date": "15. 7. 2026",
+    "year": "2026",
+    "title": "Okamžité zrušení pracovního poměru (§ 55 odst. 1 písm. b ZP) — doručeno 15. 7. 2026",
+    "text": "Traiva s.r.o. zastoupená Ing. Karlem Ospalíkem doručila 15. 7. 2026 (datová schránka + e-mail + pošta) 13stránkové okamžité zrušení pracovního poměru dle § 55 odst. 1 písm. b) zákoníku práce. Šest uváděných důvodů: (1) neoprávněná změna admin. práv T-Mobile GPS 12./15. 5. 2026; (2) přístup do e-mailových schránek zaměstnanců (příloha č. 1: logy 20.–30. 4. 2026); (3) přeposílání interních informací Karlu Neffemu; (4) zaslání finančních výkazů na pavelcermak@kb.cz; (5) neomluvená absence červen 2026 (20 prac. dní); (6) smazání dat ve schránce j.premus@traiva.cz. Dokument zároveň zmiňuje 'probíhající posouzení trestní odpovědnosti'. OZP doručeno 2 dny po třetí výzvě datovou schránkou (14. 7.) a v den, kdy Karin Švédová sepisovala OIP podnět (podán 17. 7.).",
+    "legal": "Lhůta § 72 ZP pro žalobu na neplatnost: 15. 9. 2026 (2 měsíce od doručení) — prekluzivní, zmeškání = zánik práva. Lhůta § 58 odst. 1 ZP (subjektivní): zaměstnavatel musí prokázat, že se o každém důvodu dozvěděl nejpozději 2 měsíce před 15. 7. 2026 (tj. nejpozději 15. 5. 2026). Dubnové přístupy 'objeveny' v červnu–červenci = po třech výzvách datovou schránkou = retaliační vzorec doložitelný chronologií.",
+    "tags": [
+      "pracovněprávní",
+      "jednatel",
+      "obchodní"
+    ],
+    "personRefs": [
+      "Andrea Matis",
+      "Karel Ospalík"
+    ],
+    "evidenceRefs": [
+      "Okamžité zrušení pracovního poměru 15. 7. 2026",
+      "Podklad pro advokáta: Analýza OZP"
+    ]
+  }
+,
+  {
+    "id": "ev-2026-karin-oip",
+    "date": "17. 7. 2026",
+    "year": "2026",
+    "title": "Karin Švédová podala podnět k OIP — úřední korobrace pomluvy a zákazu kontaktu",
+    "text": "Karin Švédová (přijata Andreou, přeřazena na uklízečku po odmítnutí výpovědi 10. 6., od 11. 6. na PN pro psychické obtíže) podala 17. 7. 2026 formální podnět k Oblastnímu inspektorátu práce pro Moravskoslezský kraj a Olomoucký kraj. Podání potvrzeno SÚIP (ID f83b0ad4-7041-4a79-924a-643cd19a6948, číslo podání 20260001). Podnět z NEZÁVISLÉHO zdroje a ÚŘEDNÍ evidence potvrzuje: veřejnou pomluvu Andreou ('neoprávněný výběr 100 000 Kč') na ranní poradě 10. 6. 2026 před všemi zaměstnanci, plošný zákaz kontaktu zaměstnanců s Andreou, a označení Andreou jako 'přímé nadřízené'. Karin zároveň upozorňuje na systémový vzorec: DPP jako obcházení zákonného odměňování, výtky vydávané retroaktivně v den eskalace, přeřazování bez písemného dodatku.",
+    "legal": "Podnět k OIP je VEŘEJNÝ DOKUMENT s úřední evidencí — nelze ho zpochybnit jako soukromé sdělení. Potvrzuje pomluvu (§ 184 TZ, § 82 OZ) z nezávislého zdroje: Karin nebyla nikdy v pracovněprávním sporu s Andreou, nemá zájem na výsledku Andreina sporu. Svědkyně jmenovány v OIP podnětu: Natalie Baloghová, Nikol Kostková, Šárka Mullerová, Kateřina Hájková. Inspektorát práce nyní má povinnost kontrolu provést — výsledek kontroly bude dalším důkazem v Andreině věci.",
+    "tags": [
+      "pracovněprávní",
+      "OIP"
+    ],
+    "personRefs": [
+      "Andrea Matis",
+      "Karin Švédová",
+      "Karel Ospalík"
+    ],
+    "evidenceRefs": [
+      "Podnět OIP Karin Švédové 17. 7. 2026",
+      "Osvědčení o digitálním úkonu SÚIP"
+    ]
+  }
+
 ];
