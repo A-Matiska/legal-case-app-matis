@@ -586,7 +586,7 @@ export const documents: CaseDocument[] = [
       "pracovněprávní",
       "mzda"
     ],
-    "file": "https://drive.google.com/file/d/1svJmqbCCl_V5az3Oy_7CVDRKDee1i6zB/view",
+    "file": "https://docs.google.com/document/d/1ij1915tBypQ1-NffFmoseniZo-EiUHpt-o9psxD_tXQ/view",
     "text": "Formální dopis Andreou podepsaný den po odvolání z jednatele (11. 6. 2026), adresován Karlu Ospalíkovi. Čtyři požadavky: (1) Obnovení přístupu k pracovnímu e-mailu, OneDrive/SharePoint a SaaS systémům (CRM, HR, marketing, účetnictví) — přístupy byly odemčleny, přičemž zaměstnavatel zároveň požadoval doložení dokumentů z těchto systémů. (2) Zpřístupnění nebo export podkladů, k nimž přístup chybí, zejm. přes Evu Orel (evidence mezd). (3) Obnovení práce z domova dle smlouvy. (4) Writenné vyúčtování veškerých mzdových složek za 36 měsíců — bonusová složka byla snižována bez dohody: duben 2025 = 47 700 Kč hrubého, duben 2026 = 0 Kč; Andrea požádala o tabulky, na jejichž základě byl výpočet prováděn a odměny snižovány. Navíc žádost o doložení auditních logů docházkového systému prokazujících rozsah práce a odebrání přístupu."
   },
   {
