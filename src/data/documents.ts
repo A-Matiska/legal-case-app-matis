@@ -893,5 +893,17 @@ export const documents: CaseDocument[] = [
     ],
     "text": "Smlouva o poskytnutí licence a souvisejících služeb č. 220/2024. Zákazník: TRAIVA s.r.o. Poskytovatel: Walk Solutions s.r.o. (Daniel CHOMO). Předmět: expediční systém TouchStore s Odoo konektorem — 10 modulů (GEIS, PPL, Zásilkovna, GLS, DELIVERY, PERSONAL, hromadný picking list, čtečka EAN, podpisy skladníka) + hardware (AIO PC Shuttle P92U, termotiskárna Zebra, čtečky, mobilní terminál Chainway C6000/2D). Cena: ~6 420 Kč/měs. bez DPH + ~10 000 Kč jednorázově. V šabloně smlouvy je vytištěno jméno Ing. KAREL OSPALÍK, jednatel — ale FYZICKÝ PODPIS NA SMLOUVĚ PATŘÍ ANDREE MATIS. KLÍČOVÁ PRÁVNÍ RELEVANCE: (1) FAKTICKÁ JEDNATELKA — Andrea podpisem závazné obchodní smlouvy (finanční závazek 77 040 Kč/rok) jednala jako právní zástupkyně TRAIVA PŘED svým formálním jmenováním jednatelem → důkaz de facto jednatelského postavení; (2) OSPALÍK VĚDĚL A SOUHLASIL — přenechal Andree podepisování obchodních smluv s třetími stranami; (3) PROTIARGUMENT K OZP — zaměstnanec, který 'závažně porušuje povinnosti', nepodepisuje jménem firmy závazné smlouvy; (4) ROZSAH ODPOVĚDNOSTI — TouchStore je klíčový provozní systém celé expedice TRAIVA → Andrea zodpovídala za strategická technologická rozhodnutí; (5) VZÁJEMNÝ KONTEXT — smlouva je o Odoo konektoru, tj. propojení TouchStore s Odoo je Andrein projekt od podpisu.",
     "file": "https://docs.google.com/document/d/1NQmYqMBdXgqV1zP02Kl3FCmtLkKVW_OhKBPHum1o1TQ/view"
+  },
+  {
+    "id": "d-uspory-07-2026",
+    "title": "Tabulka 'Budoucí úspory od 07_2026' — Ospalík zaslal Matis e-mailem (propuštění bez odstupného před transakcí)",
+    "type": "interní tabulka mezd · plán akvizičních úspor · zasláno Ospalíkem Andree · přímý důkaz účelovosti OZP",
+    "date": "2026 (před 15. 7. 2026)",
+    "tags": [
+      "pracovněprávní",
+      "obchodní"
+    ],
+    "text": "Excelová tabulka odeslaná Karlem Ospalíkem Andree Matis e-mailem. Záhlaví: 'Mzdy a náklady, kterých se lze zbavit okamžitě.' Poznámka pod tabulkou: 'propuštění bez odstupného PŘED TRANSAKCÍ / zrušení DPP/HPP.' Tabulka jmenuje všechny zaměstnance s ročními náklady. Andrea Matis: HPP 551 081 Kč + prémie 402 397 Kč + DPP 115 200 Kč = CELKEM 1 188 580 Kč/rok. Jiří Premus: celkem 1 313 830 Kč/rok. Celková úspora z propuštění: 829 396 Kč. Celková úspora se mzdami i náklady: 3 110 896 Kč/rok. ZNIČUJÍCÍ PRÁVNÍ DŮKAZY: (1) PŘEDPLÁNOVANÝ OZP — dokument datován 'od 07_2026', OZP doručeno 15. 7. 2026 = propuštění bylo naplánováno jako součást akvizičního plánu, ne reakce na prohřešky; (2) ÚČELOVOST DOSLOVA PŘIZNÁNA — 'propuštění bez odstupného před transakcí' je přesný popis toho, co se stalo; OZP místo výpovědi = ušetřit odstupné; (3) PRÉMIE 402 397 KČ JAKO ELIMINOVANÝ NÁKLAD — Ospalík zahrnul Andrein nárok na prémie do nákladů k eliminaci = věděl, že je dluží, a OZP použil k úniku z platební povinnosti; (4) ZASLÁNO SAMOTNÝM OSPALÍKEM — Andrea dokument obdržela od zaměstnavatele, nelze zpochybnit pravost ani způsob nabytí; (5) RODINA ZŮSTÁVÁ — Vojtěch Ospalík + Zita Ospalíková (DPP) nejsou na seznamu k eliminaci; (6) PROPOJENÍ s DD podklady — stejná čísla (829 tis. Kč) figurují v due diligence materiálech pro kupce (d-oceneni-kupujici) = koordinovaný plán.",
+    "file": "https://docs.google.com/document/d/1vKWwJfT2C1xD8F7p9WsC4nvV3OyH_-idOq_yY2jIdoU/view"
   }
 ];
