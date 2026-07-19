@@ -702,15 +702,15 @@ export const documents: CaseDocument[] = [
   },
   {
     "id": "d-email-karin-premus-30042026",
-    "title": "E-mail 'Stav pracovníků a náklady' — Ing. Matis → Jiří Premus (30. 4. 2026)",
-    "type": "interní e-mail · klíčový důkaz o roli Karin Švédové v expedici",
-    "date": "30. 4. 2026",
+    "title": "E-mailové vlákno 'Stav pracovníků a náklady' — Ospalík / Premus / Matis (26. 3. – 14. 4. 2026)",
+    "type": "interní e-mailové vlákno · klíčový důkaz manažerské role · 7 zpráv",
+    "date": "14. 4. 2026 (vlákno od 26. 3. 2026)",
     "tags": [
       "pracovněprávní",
       "obchodní"
     ],
-    "text": "E-mail, ve kterém Ing. Matis píše Jiřímu Premusovi: 'chtěla bych se s tebou sladit na dalším postupu u Karin'. Prokazuje: (1) Karin Švédová přijata jako zástup na expedici v období plánované PN, (2) výhledově měla nahradit Danu Rogalovou na prodejně bez navýšení stavu, (3) Ing. Ospalík dočasně zmrazil org. změny kvůli akvizici, (4) Ing. Matis připravila plán a koordinovala ho s vedením. Vyvrací tvrzení, že Karin byla přijata jako marketingová specialistka nebo bez vědomí vedení. Zdroj: Outlook (TRAIVA), přístup vyžaduje přihlášení.",
-    "unavailableReason": "Uloženo jen ve firemním Outlooku (TRAIVA) — bez přístupu na firemní profil se k originálu nedostanu."
+    "text": "E-mailové vlákno 7 zpráv (26. 3. – 14. 4. 2026) mezi Ospalíkem, Premusem a Matis ohledně Karin Švédové. KLÍČOVÉ DŮKAZY: (1) Ředitel Premus 27. 3. 2026 výslovně potvrzuje: 'Na řízení lidí ve spodních kanceláří máme Andrei' — 6 týdnů před OZP. (2) Premus potvrzuje, že Andrea SAMA NAŠLA Karin Švédovou: 'na základě bodu 1 a 2 Andrea našla Karin Švédovou.' (3) Karin pracovala na úkolech zadaných OSPALÍKEM, ne Andreou: 'pracuje na úkolech, které jsi jí zadal přímo ty'. (4) Ospalík sám označuje Andreu jako 'manažera': 'Nevím kdo z manažerů přijímal Karin Švédovou'. (5) Ospalík odmítl 8týdenní plán práce s odůvodněním 'K takovým úkolům jsi pořídila asistentku' — přiznává, že asistentka sloužila Andreině manažerské práci. (6) Andrea připravila strukturovaný plán na 8 týdnů — prokazuje proaktivní management a koordinaci s vedením. Vlákno přímou řečí vyvrací tvrzení, že Andrea neřídila lidi nebo přijala Karin bez pověření.",
+    "file": "https://docs.google.com/document/d/1ECIzIHHYUGqUDbYuC90-nWLfCdqc9GHRGfj9wL8ujOg/view"
   },
   {
     "id": "d-vysledovka-traiva-2023",
