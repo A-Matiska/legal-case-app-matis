@@ -838,14 +838,14 @@ export const documents: CaseDocument[] = [
   {
     "id": "d-strategicky-plan-2026",
     "title": "Strategický plán 2026 pro poradu vedení TRAIVA — FINÁL (Ing. Andrea Matis)",
-    "type": "strategický dokument · vrcholná manažerská práce · připraveno pro vedení TRAIVA",
-    "date": "2026",
+    "type": "strategický dokument · vrcholná manažerská práce · stav k 1. pololetí 2026 · sdíleno přes Teams",
+    "date": "2026 (stav k 23. 4. 2026)",
     "tags": [
       "obchodní",
       "pracovněprávní"
     ],
-    "text": "Andrea připravila kompletní vizuální strategický plán pro poradu vedení TRAIVA na rok 2026. Zahrnuje 4 strategické oblasti: (1) Rozšíření portfolia e-shopu o 150+ produktů BOZP/PO; (2) Uvedení Smart First Aid na trh (04/2026) — nový inovativní produkt kompletně připraven; (3) Marketing B2C+B2B, LinkedIn, Facebook, emailing, Saleskit; (4) Dokončení automatizace Odoo, integrace systémů, analytics; (5) Růst prodeje BOZP software (Dokumentace, Organizer, Safetutor, Komplet e-BOZP). PRÁVNÍ RELEVANCE: Přímý důkaz, že Andrea vykonávala vrcholnou strategickou manažerskou práci těsně před OZP. Plán je profesionálně zpracovaný, strukturovaný, s přínosy a termíny. Vyvrací tvrzení o 'závažném porušení povinností' nebo nečinnosti.",
-    "file": "https://docs.google.com/document/d/19G09H2v5kNInivIGus3N71XWbKRKaayDVWyNHTSsHA4/view"
+    "text": "Kompletní strategický plán 2026 zpracovaný Andreou pro poradu vedení TRAIVA. Stav k 1. pololetí 2026 — tj. aktuální přehled k 23. 4. 2026, 3 dny před OZP. OBSAH: (1) ERP Odoo stabilizace a automatizace: párování plateb nasazeno 15. 4. 2026, k 23. 4. 2026 dosaženo ~85 % automatického párování na staging 2 — Andrea aktivně dořešovala Odoo těsně před OZP; (2) E-shop portfolio: revize 02/2026, Smart First Aid ve fázi dokončování (krabičky + web), plán Q4 2026; (3) Marketing B2C+B2B: Saleskit testován 01/2026, LinkedIn + B2B leads, plán na celý rok 2026; (4) BOZP software: technické migrace BOZP webů 01/2026, cíl Komplet e-BOZP 05/2026, integrace BOZP ↔ Odoo. FORMÁT: Profesionální dokument s KPI, ownery, termíny, analýzou rizik, mitigačními plány a výchozím stavem ke každé oblasti. KLÍČOVÁ PRÁVNÍ RELEVANCE: (1) PRÁCE TĚSNĚ PŘED OZP — Odoo automatizace nasazena 15. 4. a dokončována 23. 4. 2026 = Andrea aktivně pracovala v týdnu před OZP, přímý protiargument k 'závažnému porušování'; (2) ODOO PÁROVÁNÍ = PŘÍMÁ OBRANA — Ospalík v e-mailu Pohledávky 17. 4. 2026 kritizuje absenci párování, ale Andrea tuto věc aktivně řešila a měla ~85 % výsledek; (3) SMART FIRST AID = NAD RÁMEC POVINNOSTÍ — Andrea dokončovala produkt, který byl v Ospalíkově strategii 2025 přidělen Technickému řediteli; (4) SDÍLENO PŘES TEAMS = Ospalík o plánu věděl nebo ho viděl; (5) MANAŽERSKÁ PRÁCE — KPI, ownery, termíny, rizika = vrcholná strategická práce, neslučitelná s 'nečinností'.",
+    "file": "https://docs.google.com/document/d/1pT-a-hKYSW04F2QJ2oEHSCJ-j7GK8f0WOTSM8Itm7qk/view"
   },
   {
     "id": "d-manual-care-call",
