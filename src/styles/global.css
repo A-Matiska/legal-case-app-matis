@@ -312,8 +312,8 @@ body::before {
 }
 
 .clear-button {
-  width: 36px;
-  min-height: 36px;
+  width: 40px;
+  min-height: 40px;
   padding: 0;
   font-size: 13px;
   color: var(--muted);
@@ -350,6 +350,14 @@ body::before {
   gap: 8px;
   overflow-x: auto;
   padding-bottom: 2px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent 100%);
+  mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent 100%);
+}
+
+.filter-row::-webkit-scrollbar {
+  display: none;
 }
 
 .filter-chip {
@@ -357,8 +365,8 @@ body::before {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  min-height: 34px;
-  padding: 0 14px;
+  min-height: 40px;
+  padding: 0 15px;
   border: 0;
   border-radius: 980px;
   background: var(--panel);

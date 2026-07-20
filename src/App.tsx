@@ -32,7 +32,17 @@ export function App() {
   useKeyboardNav();
 
   useEffect(() => {
-    document.documentElement.dataset.theme = state.theme;
+    const mql = window.matchMedia("(prefers-color-scheme: dark)");
+    const apply = () => {
+      const effective =
+        state.theme === "auto" ? (mql.matches ? "dark" : "light") : state.theme;
+      document.documentElement.dataset.theme = effective;
+    };
+    apply();
+    if (state.theme === "auto") {
+      mql.addEventListener("change", apply);
+      return () => mql.removeEventListener("change", apply);
+    }
   }, [state.theme]);
 
   return (

@@ -54,11 +54,25 @@ export function Sidebar({ open, onClose }: { open: boolean; onClose: () => void 
         <button
           className="icon-button theme-toggle"
           type="button"
-          aria-label="Přepnout režim zobrazení"
-          title="Přepnout režim"
+          aria-label={
+            state.theme === "light"
+              ? "Motiv: světlý — přepnout na tmavý"
+              : state.theme === "dark"
+                ? "Motiv: tmavý — přepnout na automatický"
+                : "Motiv: automatický (dle systému) — přepnout na světlý"
+          }
+          title={
+            state.theme === "light"
+              ? "Světlý motiv"
+              : state.theme === "dark"
+                ? "Tmavý motiv"
+                : "Automatický motiv (dle systému)"
+          }
           onClick={() => dispatch({ type: "TOGGLE_THEME" })}
         >
-          <span aria-hidden="true">{state.theme === "dark" ? "☼" : "☾"}</span>
+          <span aria-hidden="true">
+            {state.theme === "light" ? "☼" : state.theme === "dark" ? "☾" : "◐"}
+          </span>
         </button>
         <button className="primary-button compact" type="button" onClick={() => window.print()}>
           Export PDF

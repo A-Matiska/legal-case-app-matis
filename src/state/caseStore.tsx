@@ -11,12 +11,8 @@ type Action =
   | { type: "HYDRATE"; view?: ViewId; selectedId?: string | null };
 
 function initialState(): CaseState {
-  const stored = localStorage.getItem("case-theme") as "light" | "dark" | null;
-  const prefersDark =
-    typeof window !== "undefined" &&
-    typeof window.matchMedia === "function" &&
-    window.matchMedia("(prefers-color-scheme: dark)").matches;
-  const theme: "light" | "dark" = stored ?? (prefersDark ? "dark" : "light");
+  const stored = localStorage.getItem("case-theme") as "light" | "dark" | "auto" | null;
+  const theme: "light" | "dark" | "auto" = stored ?? "auto";
   return { view: "dashboard", query: "", filters: new Set(), selectedId: null, theme };
 }
 
@@ -36,7 +32,8 @@ function reducer(state: CaseState, action: Action): CaseState {
     case "SELECT":
       return { ...state, selectedId: action.id };
     case "TOGGLE_THEME": {
-      const theme = state.theme === "dark" ? "light" : "dark";
+      const order = ["light", "dark", "auto"] as const;
+      const theme = order[(order.indexOf(state.theme) + 1) % order.length];
       localStorage.setItem("case-theme", theme);
       return { ...state, theme };
     }

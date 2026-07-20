@@ -94,5 +94,5 @@ export interface CaseState {
   query: string;
   filters: Set<TagId>;
   selectedId: string | null;
-  theme: "light" | "dark";
+  theme: "light" | "dark" | "auto";
 }
