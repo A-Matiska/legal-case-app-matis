@@ -967,5 +967,16 @@ export const documents: CaseDocument[] = [
     ],
     "text": "Přehled z ePortálu ČSSZ (staženo 19. 7. 2026). POJISTNÉ VZTAHY: HPP u TRAIVA (od 19. 1. 2021) — „pojistný vztah do\" prázdné = STÁLE TRVÁ, bez odhlášky; DPP u TRAIVA (od 1. 11. 2022) trvá; DPP u Traiva Safety (od 1. 9. 2023) UKONČENA k 31. 3. 2026. VÝZNAM: (1) HPP bez odhlášky → k 19. 7. tě ČSSZ vede jako pojištěnou, potvrzuje pojištění při vzniku DPN 15. 7. (nemocenská jistá) a záznam zatím odpovídá pozici „PP trvá\", ne verzi zaměstnavatele; (2) DPP u Traiva Safety ukončena k 31. 3. 2026 plošně VŠEM zaměstnancům (jednatel TS = Premus, zeť Ospalíka) — restrukturalizace před transakcí, ne cílené na Andreu; kontext viz ev-traiva-safety-dpp. ELDP 2025: souvislé pojištění celý rok, VYMĚŘOVACÍ ZÁKLAD 1 073 380 Kč (~89 tis./měs), vyhotoveno 21. 4. 2026 — BASELINE: řádné plné hlášení po roky vs. propad na 7 322 Kč v červnu 2026 (viz d-vyplatni-paska-cerven-2026) = argument účelovosti. NEMOCENSKÁ: eNeschopenka od 15. 7. v systému; dávka od 15. dne (~od 29. 7.), orientačně ~1 200–1 250 Kč/den. CHYBÍ: ELDP 2026 (podat do 30 dnů od skončení PP, ~do pol. srpna) prokáže základy 2026; ČPZP přehled za 2026. Screenshoty v držení Andrey. ČPZP kontrolní zpráva (vystavena 19. 7. 2026, ref. 26845606): hodnoty evidovány jen k 19. 2. 2025 + platba z posledních 5 prac. dní nemusí být započtena → NEPOKRÝVÁ spolehlivě sporné období 2025–2026. K 2/2025 osobní účet pojištěnce bez dluhu, registrace zaměstnance u TRAIVA od 19. 1. 2021 trvá; osobní účet ale neukazuje odvody zaměstnavatele (plátcovský účet). Dle A. M. zaměstnavatel platí pojistné opakovaně pozdě. Nutno: aktuální výpis ČPZP + dotaz OSSZ na prodlení + ELDP 2026.",
     "file": "https://docs.google.com/document/d/1q5HnnREZtW9KAyjWg8lIdl02TNShZfrAtlvXA4gMoes/view"
+  },
+  {
+    "id": "d-oznameni-69",
+    "title": "Oznámení dle § 69 odst. 1 ZP — trvám na dalším zaměstnávání (20. 7. 2026)",
+    "type": "právní úkon zaměstnance · § 69 ZP · podmiňuje náhradu mzdy za dobu sporu",
+    "date": "20. 7. 2026",
+    "tags": [
+      "pracovněprávní"
+    ],
+    "text": "Formální oznámení zaměstnavateli podle § 69 odst. 1 zákoníku práce — Andrea sděluje, že s okamžitým zrušením pracovního poměru (doručeno 15. 7. 2026) nesouhlasí, považuje ho za neplatné a TRVÁ NA TOM, ABY JI ZAMĚSTNAVATEL DÁLE ZAMĚSTNÁVAL. Připraveno k odeslání datovou schránkou 20. 7. 2026. PRÁVNÍ ÚČEL: podmiňuje nárok na náhradu mzdy dle § 69 ZP za dobu sporu (náhrada běží od doručení oznámení; plně po skončení PN). Text zmiňuje i trvající pracovní neschopnost od 15. 7. a vyhrazuje si veškeré další mzdové nároky. POZOR — nezaměňovat se žalobou na neplatnost dle § 72 ZP (nutno podat u soudu do 15. 9. 2026, prekluzivní lhůta); toto oznámení žalobu nenahrazuje, obojí je třeba. Tisknutelná verze i v appce (/oznameni-69-minimal.html).",
+    "file": "https://docs.google.com/document/d/1iA3X02zujYoZ9B5ULcaPkPGyc76EeH7JTO2OMkXNttk/view"
   }
 ];
