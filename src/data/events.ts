@@ -953,6 +953,26 @@ export const rawEvents: Omit<CaseEvent, "relatedPersonIds" | "relatedEvidenceIds
       "Podnět OIP Karin Švédové 17. 7. 2026",
       "Osvědčení o digitálním úkonu SÚIP"
     ]
+  },
+  {
+    "id": "ev-2026-oznameni-69",
+    "date": "20. 7. 2026",
+    "year": "2026",
+    "sort": "2026-07-20",
+    "title": "Oznámení dle § 69 ZP — trvám na dalším zaměstnávání (dodáno do datové schránky)",
+    "text": "Datovou schránkou jsem zaměstnavateli odeslala oznámení podle § 69 odst. 1 zákoníku práce. Sděluji v něm, že s okamžitým zrušením pracovního poměru doručeným 15. 7. 2026 zásadně nesouhlasím, považuji tvrzení v něm za nepravdivá a účelově vytvořená, ukončení pracovního poměru za neplatné, a že tedy můj pracovní poměr neskončil a trvá i nadále. Výslovně oznamuji, že TRVÁM NA TOM, ABY MĚ ZAMĚSTNAVATEL DÁLE ZAMĚSTNÁVAL. Uvádím, že od 15. 7. 2026 jsem v pracovní neschopnosti a jakmile skončí, jsem připravena normálně pracovat podle své pracovní smlouvy. Zároveň uplatňuji nárok na náhradu mzdy podle § 69 ZP a ponechávám si všechny další nároky. DORUČENÍ JE DOLOŽENO: podle dodejky byla zpráva (ID 1736600458, poštovní datová zpráva, do vlastních rukou, k rukám Ing. Karla Ospalíka) téhož dne 20. 7. 2026 v 05:59:20 podána i dodána do datové schránky TRAIVA, s.r.o. (ID schránky gwn73br).",
+    "legal": "§ 69 odst. 1 ZP: oznámí-li zaměstnanec zaměstnavateli, že trvá na dalším zaměstnávání, jeho pracovní poměr trvá dál a zaměstnavatel je povinen poskytnout mu náhradu mzdy ve výši průměrného výdělku. Tímto oznámením je tedy podmínka nároku splněna a náhrada běží od 20. 7. 2026; po dobu mé pracovní neschopnosti se plnění překrývá s nemocenskou, výši je proto třeba propočítat s advokátem. POZOR — toto oznámení NENAHRAZUJE žalobu na neplatnost rozvázání pracovního poměru podle § 72 ZP, kterou je nutné podat u soudu do 15. 9. 2026 (prekluzivní lhůta). Obojí je třeba. K prokázání doručení: dodejka zachycuje událost EV5 (dodání do schránky adresáta), nikoli EV11 (přihlášení adresáta). U soukromoprávního jednání se uplatní § 570 obč. zák. — projev vůle působí od chvíle, kdy se dostal do sféry adresáta; okamžik dodání do datové schránky tomu odpovídá. Kdyby zaměstnavatel namítal, že se do schránky nepřihlásil, je to otázka k probrání s advokátem.",
+    "tags": [
+      "pracovněprávní"
+    ],
+    "personRefs": [
+      "Andrea Matis",
+      "Karel Ospalík"
+    ],
+    "evidenceRefs": [
+      "Oznámení dle § 69 odst. 1 ZP 20. 7. 2026",
+      "Dodejka datové zprávy ID 1736600458"
+    ]
   }
 
 ];

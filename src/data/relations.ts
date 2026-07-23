@@ -68,4 +68,6 @@ export const documentAlias: Record<string, string> = {
   "FW: Nájem auta 8. 5. 2026": "d-najem-auta",
   "Nátlak na podpis odvolání jednatelky – záznam": "d-natlek-odvolani",
   "Strategický plán 2025 — souhrn pro poradu vedení 14. 1. 2026": "d-strategicky-plan-2025",
+  "Oznámení dle § 69 odst. 1 ZP 20. 7. 2026": "d-oznameni-69",
+  "Dodejka datové zprávy ID 1736600458": "d-dorucenka-69",
 };

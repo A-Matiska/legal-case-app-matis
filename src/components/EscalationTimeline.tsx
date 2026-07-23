@@ -33,7 +33,7 @@ const steps = [
     date: "20. 7. 2026",
     label:
       "Vyjádřila jsem nesouhlas s okamžitým zrušením — jde o neplatné rozvázání pracovního poměru, trvám na dalším zaměstnávání (§ 69 ZP)",
-    eventId: null,
+    eventId: "ev-2026-oznameni-69",
   },
 ] as const;
 

@@ -41,7 +41,7 @@ export const claims: Claim[] = [
     id: "nahrada-69",
     label: "Náhrada mzdy za dobu sporu (§ 69)",
     amount: null,
-    basis: "§ 69 ZP — od doručení oznámení",
+    basis: "§ 69 ZP — běží od 20. 7. 2026 (dodání oznámení do datové schránky, ID 1736600458)",
     status: "bezi",
     group: "variabilni",
   },

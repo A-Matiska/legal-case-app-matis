@@ -976,7 +976,7 @@ export const documents: CaseDocument[] = [
     "tags": [
       "pracovněprávní"
     ],
-    "text": "Formální oznámení zaměstnavateli podle § 69 odst. 1 zákoníku práce — sděluji, že s okamžitým zrušením pracovního poměru (doručeno 15. 7. 2026) nesouhlasím, považuji ho za neplatné a TRVÁM NA TOM, ABY MĚ ZAMĚSTNAVATEL DÁLE ZAMĚSTNÁVAL. Připraveno k odeslání datovou schránkou 20. 7. 2026. PRÁVNÍ ÚČEL: podmiňuje nárok na náhradu mzdy dle § 69 ZP za dobu sporu (náhrada běží od doručení oznámení; plně po skončení PN). Text zmiňuje i mou trvající pracovní neschopnost od 15. 7. a vyhrazuji si veškeré další mzdové nároky. POZOR — nezaměňovat se žalobou na neplatnost dle § 72 ZP (nutno podat u soudu do 15. 9. 2026, prekluzivní lhůta); toto oznámení žalobu nenahrazuje, obojí je třeba. Tisknutelná verze i v appce (/oznameni-69-minimal.html).",
+    "text": "Formální oznámení zaměstnavateli podle § 69 odst. 1 zákoníku práce — sděluji, že s okamžitým zrušením pracovního poměru (doručeno 15. 7. 2026) nesouhlasím, považuji ho za neplatné a TRVÁM NA TOM, ABY MĚ ZAMĚSTNAVATEL DÁLE ZAMĚSTNÁVAL. ODESLÁNO A DODÁNO 20. 7. 2026 v 05:59:20 — doloženo dodejkou datové zprávy (ID 1736600458, poštovní datová zpráva, do vlastních rukou, k rukám Ing. Karla Ospalíka, schránka adresáta gwn73br). PRÁVNÍ ÚČEL: podmiňuje nárok na náhradu mzdy dle § 69 ZP za dobu sporu (náhrada běží od doručení oznámení; plně po skončení PN). Text zmiňuje i mou trvající pracovní neschopnost od 15. 7. a vyhrazuji si veškeré další mzdové nároky. POZOR — nezaměňovat se žalobou na neplatnost dle § 72 ZP (nutno podat u soudu do 15. 9. 2026, prekluzivní lhůta); toto oznámení žalobu nenahrazuje, obojí je třeba. Tisknutelná verze i v appce (/oznameni-69-minimal.html).",
     "file": "https://docs.google.com/document/d/1iA3X02zujYoZ9B5ULcaPkPGyc76EeH7JTO2OMkXNttk/view"
   },
   {
@@ -990,5 +990,16 @@ export const documents: CaseDocument[] = [
     ],
     "text": "Porovnala jsem své měsíční odměny s odměnami Jiřího Premuse přímo z interních tabulek zaměstnavatele (Prémie nové 2024.xlsx, Prémie 2026.xlsx). ZJIŠTĚNÍ: po 21 měsíců (XI/2023 – VIII/2025) jsme dostávali odměny v NAPROSTO SHODNÉ VÝŠI — koruna na korunu (jediná odchylka je prosinec 2024, kdy měl o 2 081 Kč více). I na začátku roku 2026 jsme byli srovnatelní (prémie do výplaty 21 000 / 24 000, resp. 20 000 / 20 000). V systému odměňování jsme tedy byli postaveni naroveň — nelze proto tvrdit, že bych měla nižší postavení, horší výkon nebo jiný nárok. PRÁVNÍ VÝZNAM: § 16 ZP (rovné zacházení) a § 110 ZP (stejná mzda za stejnou práci nebo práci stejné hodnoty). Podle mých výplatních pásek mi odměny následně klesly na nulu (duben 2025 = 47 700 Kč hrubého, duben 2026 = 0 Kč), zatímco Jiřímu Premusovi podle mých informací běžely dál; Premus je zeť majitele Karla Ospalíka (manžel jeho dcery Magdaleny Premusové) a jednatel sesterské Traiva Safety s.r.o. DOPAD NA PRŮMĚR: osekání mých odměn nastalo v rozhodném období pro výpočet průměrného výdělku (§ 351 a násl. ZP), a snížilo tak základ pro náhradu mzdy dle § 208 i § 69, pro proplacení dovolené i pro nemocenskou. CO CHYBÍ: data za III–V/2026, kdy mé odměny klesly na nulu — vyžádala jsem si je písemně 11. 6. 2026 (vyúčtování mzdových složek za 36 měsíců), dosud bez odpovědi. Lze je opatřit soudní cestou (§ 129 o. s. ř.) nebo v rámci kontroly inspekce práce.",
     "file": "https://docs.google.com/document/d/1N4Kk7aVTBZC6Bl0HH90tvcgYeYslL-_ZTK6UWM_jQ2U/view"
+  },
+  {
+    "id": "d-dorucenka-69",
+    "title": "Dodejka datové zprávy — oznámení § 69 dodáno 20. 7. 2026 v 05:59:20",
+    "type": "doklad o doručení · datová schránka · určuje počátek náhrady mzdy dle § 69 ZP",
+    "date": "20. 7. 2026",
+    "tags": [
+      "pracovněprávní"
+    ],
+    "text": "Dodejka ze systému datových schránek k mému oznámení dle § 69 ZP. Zpráva ID 1736600458, typ poštovní datová zpráva, stav DODANÁ, do vlastních rukou, k rukám Ing. Karla Ospalíka. Odesílatel: já (schránka 2n4vhud, fyzická osoba). Adresát: TRAIVA, s.r.o., Pohraniční 2911/13b, Vítkovice, 703 00 Ostrava (schránka gwn73br, právnická osoba). Události: 20. 7. 2026 v 05:59:20 EV0 podána, 20. 7. 2026 v 05:59:20 EV5 dodána do datové schránky příjemce. PRÁVNÍ VÝZNAM: dokládá den, od kterého běží náhrada mzdy podle § 69 ZP. Dodejka zachycuje dodání do schránky (EV5), ne přihlášení adresáta (EV11) — u soukromoprávního jednání se uplatní § 570 obč. zák. (projev vůle působí, jakmile se dostal do sféry adresáta). Dokument obsahuje i doslovný přepis odeslaného oznámení a průvodní textové zprávy.",
+    "file": "https://docs.google.com/document/d/1Rm_2v_MefA6katwI6bXNfo-JLaNedid0domAXVUiNc0/view"
   }
 ];
