@@ -1872,3 +1872,19 @@ mark {
   .read-more, .year-rail, .escalation-hint { display: none !important; }
   .escalation-jump { text-decoration: none; }
 }
+
+/* ---------- Odpočet do prekluzivní lhůty § 72 ---------- */
+.countdown-72 { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 18px 26px; margin: 0 0 16px; padding: 20px 24px; border-radius: var(--radius); border: 1px solid var(--danger); background: color-mix(in srgb, var(--danger) 8%, var(--panel)); box-shadow: var(--shadow); }
+.countdown-72.cd-kriticke { background: color-mix(in srgb, var(--danger) 15%, var(--panel)); border-width: 2px; }
+.countdown-72.cd-po { border-style: dashed; }
+.cd72-body { flex: 1 1 320px; min-width: 0; }
+.cd72-eyebrow { margin: 0 0 4px; font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--danger); }
+.countdown-72 h2 { margin: 0 0 8px; font-size: 19px; line-height: 1.25; text-wrap: balance; }
+.cd72-note { margin: 0; max-width: 60ch; font-size: 13px; line-height: 1.5; color: var(--muted); }
+.cd72-count { display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 130px; }
+.cd72-num { font-size: 56px; font-weight: 800; line-height: 1; color: var(--danger); font-variant-numeric: tabular-nums; }
+.cd72-unit { margin-top: 2px; font-size: 13px; font-weight: 600; color: var(--danger); }
+.cd72-link { margin-top: 12px; padding: 7px 14px; border: 1px solid var(--danger); border-radius: 8px; background: transparent; color: var(--danger); font: inherit; font-size: 12px; font-weight: 600; cursor: pointer; transition: background 120ms, color 120ms; }
+.cd72-link:hover { background: var(--danger); color: #fff; }
+@media (max-width: 560px) { .cd72-count { align-items: flex-start; } .cd72-num { font-size: 44px; } }
+@media print { .cd72-link { display: none !important; } }

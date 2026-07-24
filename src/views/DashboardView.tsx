@@ -4,6 +4,7 @@ import { useCaseDispatch } from "../state/caseStore";
 import { DeadlineTracker } from "../components/DeadlineTracker";
 import { ClaimsSummary } from "../components/ClaimsSummary";
 import { EscalationTimeline } from "../components/EscalationTimeline";
+import { Countdown72 } from "../components/Countdown72";
 
 const INITIALS: Record<string, string> = {
   "p-andrea": "AM",
@@ -188,6 +189,8 @@ export function DashboardView() {
 
   return (
     <section className="view" data-view="dashboard" id="view-dashboard">
+
+      <Countdown72 />
 
       <div className="dashboard-priority-grid">
         <DeadlineTracker />
